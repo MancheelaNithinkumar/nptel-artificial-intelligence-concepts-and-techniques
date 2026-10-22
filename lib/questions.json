@@ -1,0 +1,2865 @@
+[
+  {
+    "id": "w1-q1",
+    "week": 1,
+    "number": 1,
+    "text": "While we talk about the evaluation phases of the computer, ______ is called the modern age of computers.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1985 onwards"
+      },
+      {
+        "id": "B",
+        "text": "1998 onwards"
+      },
+      {
+        "id": "C",
+        "text": "2007 onwards"
+      },
+      {
+        "id": "D",
+        "text": "2011 onwards"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w1-q2",
+    "week": 1,
+    "number": 2,
+    "text": "Which among the following is NOT a generic category of users?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Novice"
+      },
+      {
+        "id": "B",
+        "text": "Super knowledgeable"
+      },
+      {
+        "id": "C",
+        "text": "Intermittent"
+      },
+      {
+        "id": "D",
+        "text": "Expert"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w1-q3",
+    "week": 1,
+    "number": 3,
+    "text": "In the Spiral Model, why is the second quadrant crucial for interactive software development?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It defines the UI layout"
+      },
+      {
+        "id": "B",
+        "text": "It finalizes the system architecture"
+      },
+      {
+        "id": "C",
+        "text": "It identifies and mitigates usability risks via prototyping"
+      },
+      {
+        "id": "D",
+        "text": "It handles testing and deployment"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w1-q4",
+    "week": 1,
+    "number": 4,
+    "text": "What does the term 'utility' refer to in the context of usability?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Speed of task completion"
+      },
+      {
+        "id": "B",
+        "text": "Visual appeal of the design"
+      },
+      {
+        "id": "C",
+        "text": "Functional support for user needs"
+      },
+      {
+        "id": "D",
+        "text": "Frequency of feature updates"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w1-q5",
+    "week": 1,
+    "number": 5,
+    "text": "Which one of the following is NOT a computer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desktop"
+      },
+      {
+        "id": "B",
+        "text": "Digital Pedometer"
+      },
+      {
+        "id": "C",
+        "text": "Smartphone"
+      },
+      {
+        "id": "D",
+        "text": "None of the above"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w1-q6",
+    "week": 1,
+    "number": 6,
+    "text": "Interactive software development is _______ in nature.",
+    "options": [
+      {
+        "id": "A",
+        "text": "sporadic"
+      },
+      {
+        "id": "B",
+        "text": "iterative"
+      },
+      {
+        "id": "C",
+        "text": "variable"
+      },
+      {
+        "id": "D",
+        "text": "discrete"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w1-q7",
+    "week": 1,
+    "number": 7,
+    "text": "Which of the following is NOT one of the five quality components of usability proposed by Jacob Nielsen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Learnability"
+      },
+      {
+        "id": "B",
+        "text": "Efficiency"
+      },
+      {
+        "id": "C",
+        "text": "Satisfaction"
+      },
+      {
+        "id": "D",
+        "text": "Memorization"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w1-q8",
+    "week": 1,
+    "number": 8,
+    "text": "Which of the following is NOT a characteristic of the Waterfall model?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Feasibility study"
+      },
+      {
+        "id": "B",
+        "text": "Learnability study"
+      },
+      {
+        "id": "C",
+        "text": "System integration and testing"
+      },
+      {
+        "id": "D",
+        "text": "Maintenance"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w1-q9",
+    "week": 1,
+    "number": 9,
+    "text": "‘Identify objectives’ and ‘customer evaluation and planning’ is in the ______ and ______ quadrant of the spiral model respectively.",
+    "options": [
+      {
+        "id": "A",
+        "text": "First, Fourth"
+      },
+      {
+        "id": "B",
+        "text": "Second, Third"
+      },
+      {
+        "id": "C",
+        "text": "Third, Fourth"
+      },
+      {
+        "id": "D",
+        "text": "Fourth, Second"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w1-q10",
+    "week": 1,
+    "number": 10,
+    "text": "Which design approach focuses on what a programmer finds interesting to build?",
+    "options": [
+      {
+        "id": "A",
+        "text": "System-Centered Design"
+      },
+      {
+        "id": "B",
+        "text": "User-Centered Design"
+      },
+      {
+        "id": "C",
+        "text": "Utility-Based Design"
+      },
+      {
+        "id": "D",
+        "text": "Participatory Design"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w2-q1",
+    "week": 2,
+    "number": 1,
+    "text": "Contextual inquiry is also known as ___________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interview"
+      },
+      {
+        "id": "B",
+        "text": "Observation"
+      },
+      {
+        "id": "C",
+        "text": "Semi-structured interview"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w2-q2",
+    "week": 2,
+    "number": 2,
+    "text": "In SRS, functions are not represented as",
+    "options": [
+      {
+        "id": "A",
+        "text": "Function name"
+      },
+      {
+        "id": "B",
+        "text": "Input"
+      },
+      {
+        "id": "C",
+        "text": "Output"
+      },
+      {
+        "id": "D",
+        "text": "Description"
+      },
+      {
+        "id": "E",
+        "text": "Motivation"
+      }
+    ],
+    "answers": [
+      "E"
+    ]
+  },
+  {
+    "id": "w2-q3",
+    "week": 2,
+    "number": 3,
+    "text": "Contextual inquiry can be done in _______ and passive mode.",
+    "options": [
+      {
+        "id": "A",
+        "text": "active"
+      },
+      {
+        "id": "B",
+        "text": "semi-active"
+      },
+      {
+        "id": "C",
+        "text": "neutral"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w2-q4",
+    "week": 2,
+    "number": 4,
+    "text": "There are _______ stages in contextual inquiry.",
+    "options": [
+      {
+        "id": "A",
+        "text": "two"
+      },
+      {
+        "id": "B",
+        "text": "five"
+      },
+      {
+        "id": "C",
+        "text": "six"
+      },
+      {
+        "id": "D",
+        "text": "eight"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w2-q5",
+    "week": 2,
+    "number": 5,
+    "text": "Which stage in the Contextual Inquiry process involves arranging for recording observations and scripting the procedure?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Plan Stage"
+      },
+      {
+        "id": "B",
+        "text": "Initiate Stage"
+      },
+      {
+        "id": "C",
+        "text": "Execute Stage"
+      },
+      {
+        "id": "D",
+        "text": "Reflect Stage"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w2-q6",
+    "week": 2,
+    "number": 6,
+    "text": "Affinity diagram method consists of _______ steps.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Six"
+      },
+      {
+        "id": "D",
+        "text": "Five"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w2-q7",
+    "week": 2,
+    "number": 7,
+    "text": "Usability requirements is one type of ______.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Functional Requirement"
+      },
+      {
+        "id": "B",
+        "text": "Non-functional requirement"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w2-q8",
+    "week": 2,
+    "number": 8,
+    "text": "What is the primary objective of Contextual Inquiry?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To watch and observe users perform tasks in their natural work setting"
+      },
+      {
+        "id": "B",
+        "text": "To conduct semi-structured interviews with users"
+      },
+      {
+        "id": "C",
+        "text": "To develop design recommendations"
+      },
+      {
+        "id": "D",
+        "text": "To study user behavior using physical note-taking"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w2-q9",
+    "week": 2,
+    "number": 9,
+    "text": "What is the purpose of the \"Reflect\" stage in the Contextual Inquiry process?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To contact the authorities for permission"
+      },
+      {
+        "id": "B",
+        "text": "To analyze the data collected and identify design goals"
+      },
+      {
+        "id": "C",
+        "text": "To script the procedure and rehearse for observations"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w2-q10",
+    "week": 2,
+    "number": 10,
+    "text": "How long does the Contextual Inquiry process typically continue?",
+    "options": [
+      {
+        "id": "A",
+        "text": "One to two weeks"
+      },
+      {
+        "id": "B",
+        "text": "One to two hours"
+      },
+      {
+        "id": "C",
+        "text": "One to two months"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w3-q1",
+    "week": 3,
+    "number": 1,
+    "text": "In SRS document the functions should describe HOW to get the output from the given input.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w3-q2",
+    "week": 3,
+    "number": 2,
+    "text": "We can also add new functional requirements based on the observations made in contextual inquiry.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w3-q3",
+    "week": 3,
+    "number": 3,
+    "text": "In user-centered design, we have two concerns: Interface design and",
+    "options": [
+      {
+        "id": "A",
+        "text": "Machine design"
+      },
+      {
+        "id": "B",
+        "text": "Hardware design"
+      },
+      {
+        "id": "C",
+        "text": "Code design"
+      },
+      {
+        "id": "D",
+        "text": "System design"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w3-q4",
+    "week": 3,
+    "number": 4,
+    "text": "The design-prototype-evaluate cycle primarily caters to ________ design.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Interface"
+      },
+      {
+        "id": "B",
+        "text": "Code"
+      },
+      {
+        "id": "C",
+        "text": "System"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w3-q5",
+    "week": 3,
+    "number": 5,
+    "text": "Code design can be expressed in natural languages, semi-formal languages and ____________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Informal languages"
+      },
+      {
+        "id": "B",
+        "text": "Formal languages"
+      },
+      {
+        "id": "C",
+        "text": "Context sensitive languages"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w3-q6",
+    "week": 3,
+    "number": 6,
+    "text": "DFD is a ___________ code design language.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Natural"
+      },
+      {
+        "id": "B",
+        "text": "Semi-formal"
+      },
+      {
+        "id": "C",
+        "text": "Informal"
+      },
+      {
+        "id": "D",
+        "text": "Context sensitive"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w3-q7",
+    "week": 3,
+    "number": 7,
+    "text": "Shneiderman proposed __________ rules that covers broad aspects of interactive systems.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Five"
+      },
+      {
+        "id": "B",
+        "text": "Seven"
+      },
+      {
+        "id": "C",
+        "text": "Eight"
+      },
+      {
+        "id": "D",
+        "text": "Nine"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w3-q8",
+    "week": 3,
+    "number": 8,
+    "text": "“The interface should not force users to remember too many things” – this statement falls under “____________”, one of the golden rules proposed by Shneiderman.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Strive for consistency"
+      },
+      {
+        "id": "B",
+        "text": "Permit easy reversal of actions"
+      },
+      {
+        "id": "C",
+        "text": "Reduce short-term memory load"
+      },
+      {
+        "id": "D",
+        "text": "Keep users in control"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w3-q9",
+    "week": 3,
+    "number": 9,
+    "text": "Human interface guidelines for the apple systems are the _________ design guidelines.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Generic"
+      },
+      {
+        "id": "B",
+        "text": "Specific"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w3-q10",
+    "week": 3,
+    "number": 10,
+    "text": "Identification of data structures and algorithms for different modules is done on the ____________ phase of code design.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Preliminary (high-level design)"
+      },
+      {
+        "id": "B",
+        "text": "Detailed design"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w4-q1",
+    "week": 4,
+    "number": 1,
+    "text": "Norman’s Model of Interaction represents behavior of a user of interactive systems in terms of a series of _________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "actions"
+      },
+      {
+        "id": "B",
+        "text": "selection"
+      },
+      {
+        "id": "C",
+        "text": "manipulation"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w4-q2",
+    "week": 4,
+    "number": 2,
+    "text": "There are broadly two stages of interaction execution stage and ________ stage.",
+    "options": [
+      {
+        "id": "A",
+        "text": "design"
+      },
+      {
+        "id": "B",
+        "text": "evaluation"
+      },
+      {
+        "id": "C",
+        "text": "interaction"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w4-q3",
+    "week": 4,
+    "number": 3,
+    "text": "Perceive system state comes under the _______ stage of interaction.",
+    "options": [
+      {
+        "id": "A",
+        "text": "execution"
+      },
+      {
+        "id": "B",
+        "text": "design"
+      },
+      {
+        "id": "C",
+        "text": "evaluation"
+      },
+      {
+        "id": "D",
+        "text": "interaction"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w4-q4",
+    "week": 4,
+    "number": 4,
+    "text": "Actions we specify to translate intentions may not be supported by the interface leading to gap (gulf) between the first three and the last actions in the execution stage- It is called _______.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The gulf of execution"
+      },
+      {
+        "id": "B",
+        "text": "The gulf of evaluation"
+      },
+      {
+        "id": "C",
+        "text": "The gulf of Interaction"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w4-q5",
+    "week": 4,
+    "number": 5,
+    "text": "Particularly in the context of errors during interaction is explained in terms of slips and ______.",
+    "options": [
+      {
+        "id": "A",
+        "text": "error"
+      },
+      {
+        "id": "B",
+        "text": "mistakes"
+      },
+      {
+        "id": "C",
+        "text": "human error"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w4-q6",
+    "week": 4,
+    "number": 6,
+    "text": "In a vertical prototype, the entire interface is depicted at the surface level without any functionality.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w4-q7",
+    "week": 4,
+    "number": 7,
+    "text": "Paper mock-ups are the example of __________ prototype.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Low fidelity"
+      },
+      {
+        "id": "B",
+        "text": "High fidelity"
+      },
+      {
+        "id": "C",
+        "text": "Medium fidelity"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w4-q8",
+    "week": 4,
+    "number": 8,
+    "text": "There is a requirement of 3-5 member team for the cognitive walkthrough.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w4-q9",
+    "week": 4,
+    "number": 9,
+    "text": "In a cognitive walkthrough evaluation, evaluators re expected to answer the questions only in “yes” or “no”",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w4-q10",
+    "week": 4,
+    "number": 10,
+    "text": "In this technique, a human subject believes to interact with an autonomous computer. But, In reality, however, the computer is operated by an “unseen” human being. This technique is called________ approach.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Medium fidelity"
+      },
+      {
+        "id": "B",
+        "text": "Vertical"
+      },
+      {
+        "id": "C",
+        "text": "Wizard of Oz"
+      },
+      {
+        "id": "D",
+        "text": "Incremental"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w5-q1",
+    "week": 5,
+    "number": 1,
+    "text": "How do we evaluate an interface?",
+    "options": [
+      {
+        "id": "A",
+        "text": "by evaluating satisfaction"
+      },
+      {
+        "id": "B",
+        "text": "by evaluating memorability"
+      },
+      {
+        "id": "C",
+        "text": "by evaluating usability"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w5-q2",
+    "week": 5,
+    "number": 2,
+    "text": "We need to frame a set of questions (usability issues) for the evaluators before performing a cognitive walkthrough",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w5-q3",
+    "week": 5,
+    "number": 3,
+    "text": "In a heuristic evaluation, the items in the checklist are called __________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "checkbox"
+      },
+      {
+        "id": "B",
+        "text": "heuristics"
+      },
+      {
+        "id": "C",
+        "text": "usability issues"
+      },
+      {
+        "id": "D",
+        "text": "problems"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w5-q4",
+    "week": 5,
+    "number": 4,
+    "text": "There are many ways of collecting user feedback in evaluation with self report methods: ______________ , can ask them to choose from a list of system attributes ask direct and open-ended questions.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Utter the option"
+      },
+      {
+        "id": "B",
+        "text": "Rating on a scale"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w5-q5",
+    "week": 5,
+    "number": 5,
+    "text": "ASQ is a ___________________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Post-task questionnaire"
+      },
+      {
+        "id": "B",
+        "text": "Post-session questionnaire"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w5-q6",
+    "week": 5,
+    "number": 6,
+    "text": "It is generally assumed that an SUS score around _______ percent or higher is desirable",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "50"
+      },
+      {
+        "id": "D",
+        "text": "70"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w5-q7",
+    "week": 5,
+    "number": 7,
+    "text": "In expert evaluation, the evaluation team should have at least _________ members.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3-5"
+      },
+      {
+        "id": "B",
+        "text": "4-7"
+      },
+      {
+        "id": "C",
+        "text": "5-7"
+      },
+      {
+        "id": "D",
+        "text": "7-9"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w5-q8",
+    "week": 5,
+    "number": 8,
+    "text": "In heuristic evaluation, a system is evaluated with a checklist are called ____ .",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heuristics"
+      },
+      {
+        "id": "B",
+        "text": "Actions"
+      },
+      {
+        "id": "C",
+        "text": "Statement"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w5-q9",
+    "week": 5,
+    "number": 9,
+    "text": "What is the full form of SUS",
+    "options": [
+      {
+        "id": "A",
+        "text": "Software usability score"
+      },
+      {
+        "id": "B",
+        "text": "Software usability scale"
+      },
+      {
+        "id": "C",
+        "text": "System usability score"
+      },
+      {
+        "id": "D",
+        "text": "System usability scale"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w5-q10",
+    "week": 5,
+    "number": 10,
+    "text": "Which are from the following are the valid prototype evaluation methods",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cognitive walkthrough"
+      },
+      {
+        "id": "B",
+        "text": "Affinity diagram"
+      },
+      {
+        "id": "C",
+        "text": "Heuristic evaluation"
+      }
+    ],
+    "answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "w6-q1",
+    "week": 6,
+    "number": 1,
+    "text": "Which of the following is NOT a characteristic of Good design",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coverage"
+      },
+      {
+        "id": "B",
+        "text": "Correctness"
+      },
+      {
+        "id": "C",
+        "text": "Understandability"
+      },
+      {
+        "id": "D",
+        "text": "Colorful"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w6-q2",
+    "week": 6,
+    "number": 2,
+    "text": "If all functions perform similar operations it falls under ________ cohesion.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Logical"
+      },
+      {
+        "id": "B",
+        "text": "Temporal"
+      },
+      {
+        "id": "C",
+        "text": "Procedural"
+      },
+      {
+        "id": "D",
+        "text": "Sequential"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w6-q3",
+    "week": 6,
+    "number": 3,
+    "text": "If two modules share code, it falls under __________ coupling.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data"
+      },
+      {
+        "id": "B",
+        "text": "Control"
+      },
+      {
+        "id": "C",
+        "text": "Content"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w6-q4",
+    "week": 6,
+    "number": 4,
+    "text": "There are two basic design approaches: function oriented and _______ oriented.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Logic"
+      },
+      {
+        "id": "B",
+        "text": "Folder"
+      },
+      {
+        "id": "C",
+        "text": "Object"
+      },
+      {
+        "id": "D",
+        "text": "Class"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w6-q5",
+    "week": 6,
+    "number": 5,
+    "text": "Basic components of ER diagram are: Entity, _____ and Relationship",
+    "options": [
+      {
+        "id": "A",
+        "text": "Object"
+      },
+      {
+        "id": "B",
+        "text": "User"
+      },
+      {
+        "id": "C",
+        "text": "Attribute"
+      },
+      {
+        "id": "D",
+        "text": "Class"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w6-q6",
+    "week": 6,
+    "number": 6,
+    "text": "Null attributes are used when:",
+    "options": [
+      {
+        "id": "A",
+        "text": "An entity does not have a value for an attribute"
+      },
+      {
+        "id": "B",
+        "text": "A value needs to be derived from other attributes or entities"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w6-q7",
+    "week": 6,
+    "number": 7,
+    "text": "There are four types of relationships in ER diagram: one-to-one, one-to-many, many-to-one and _______.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Many-to-binary"
+      },
+      {
+        "id": "B",
+        "text": "Many-to-many"
+      },
+      {
+        "id": "C",
+        "text": "Binary-to-many"
+      },
+      {
+        "id": "D",
+        "text": "Binary-to-one"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w6-q8",
+    "week": 6,
+    "number": 8,
+    "text": "Which of the following is/are the type of cohesion?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Temporal"
+      },
+      {
+        "id": "B",
+        "text": "Functional"
+      },
+      {
+        "id": "C",
+        "text": "Content"
+      },
+      {
+        "id": "D",
+        "text": "All of the above"
+      }
+    ],
+    "answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "w6-q9",
+    "week": 6,
+    "number": 9,
+    "text": "Which one from the following are related with between modules?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cohesion"
+      },
+      {
+        "id": "B",
+        "text": "Coupling"
+      },
+      {
+        "id": "C",
+        "text": "Both"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w6-q10",
+    "week": 6,
+    "number": 10,
+    "text": "What is the full form of the DFD",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data flow design"
+      },
+      {
+        "id": "B",
+        "text": "Data flow decision"
+      },
+      {
+        "id": "C",
+        "text": "Data flow development"
+      },
+      {
+        "id": "D",
+        "text": "Data flow diagram"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w7-q1",
+    "week": 7,
+    "number": 1,
+    "text": "In functional design approach we think of the system as provider of a set of “services” represented as ________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data"
+      },
+      {
+        "id": "B",
+        "text": "Functions"
+      },
+      {
+        "id": "C",
+        "text": "Objects"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w7-q2",
+    "week": 7,
+    "number": 2,
+    "text": "In “Object Oriented Design approach”, we do not consider “services” offered by system.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w7-q3",
+    "week": 7,
+    "number": 3,
+    "text": "A class contains attributes and ___________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data"
+      },
+      {
+        "id": "B",
+        "text": "Operations"
+      },
+      {
+        "id": "C",
+        "text": "Objects"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w7-q4",
+    "week": 7,
+    "number": 4,
+    "text": "Attribute indicates nature of data that an object can contain.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w7-q5",
+    "week": 7,
+    "number": 5,
+    "text": "Full form of OOA is:",
+    "options": [
+      {
+        "id": "A",
+        "text": "object oriented assignment"
+      },
+      {
+        "id": "B",
+        "text": "object oriented assistance"
+      },
+      {
+        "id": "C",
+        "text": "object oriented analysis"
+      },
+      {
+        "id": "D",
+        "text": "object oriented attributes"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w7-q6",
+    "week": 7,
+    "number": 6,
+    "text": "________ effectively denotes the behavior of class.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data"
+      },
+      {
+        "id": "B",
+        "text": "Operations"
+      },
+      {
+        "id": "C",
+        "text": "Objects"
+      },
+      {
+        "id": "D",
+        "text": "Attributes"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w7-q7",
+    "week": 7,
+    "number": 7,
+    "text": "UML is a language to represent",
+    "options": [
+      {
+        "id": "A",
+        "text": "OOP"
+      },
+      {
+        "id": "B",
+        "text": "OOA"
+      },
+      {
+        "id": "C",
+        "text": "OOD"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w7-q8",
+    "week": 7,
+    "number": 8,
+    "text": "UML is a design methodology",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w7-q9",
+    "week": 7,
+    "number": 9,
+    "text": "Implementation view can be captured using ________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deployment diagram"
+      },
+      {
+        "id": "B",
+        "text": "Component diagram"
+      },
+      {
+        "id": "C",
+        "text": "Class diagram"
+      },
+      {
+        "id": "D",
+        "text": "Use case diagram"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w7-q10",
+    "week": 7,
+    "number": 10,
+    "text": "________ objects normally hold information (e.g. book, book registers etc).",
+    "options": [
+      {
+        "id": "A",
+        "text": "Boundary"
+      },
+      {
+        "id": "B",
+        "text": "Controller"
+      },
+      {
+        "id": "C",
+        "text": "Entity"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w8-q1",
+    "week": 8,
+    "number": 1,
+    "text": "Following standard coding guidelines helps to improve ______.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Readability only"
+      },
+      {
+        "id": "B",
+        "text": "Understandability only"
+      },
+      {
+        "id": "C",
+        "text": "Teamwork only"
+      },
+      {
+        "id": "D",
+        "text": "Readability, understandability, and teamwork"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w8-q2",
+    "week": 8,
+    "number": 2,
+    "text": "A function should have no longer than _____ lines of code.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w8-q3",
+    "week": 8,
+    "number": 3,
+    "text": "What are some things to avoid when writing code? (Choose all that apply)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Using lengthy functions"
+      },
+      {
+        "id": "B",
+        "text": "Using the same identifier for multiple purposes"
+      },
+      {
+        "id": "C",
+        "text": "Using ‘goto’ (branching) statements indiscriminately"
+      },
+      {
+        "id": "D",
+        "text": "Using proper indentation"
+      }
+    ],
+    "answers": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": "w8-q4",
+    "week": 8,
+    "number": 4,
+    "text": "Two broad categories of code testing methods are review-based method and __________ method.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Manual testing"
+      },
+      {
+        "id": "B",
+        "text": "Execution-based"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w8-q5",
+    "week": 8,
+    "number": 5,
+    "text": "What are the two common methods for review-based testing? (Choose all that apply)",
+    "options": [
+      {
+        "id": "A",
+        "text": "Code inspection"
+      },
+      {
+        "id": "B",
+        "text": "Code walkthrough"
+      },
+      {
+        "id": "C",
+        "text": "Unit testing"
+      }
+    ],
+    "answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "w8-q6",
+    "week": 8,
+    "number": 6,
+    "text": "White-box testing refers to designing test cases using knowledge of internal structure of the software.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "false"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w8-q7",
+    "week": 8,
+    "number": 7,
+    "text": "How many members should be present in a code walkthrough team?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2–3 members"
+      },
+      {
+        "id": "B",
+        "text": "3-5 members"
+      },
+      {
+        "id": "C",
+        "text": "5–7 members"
+      },
+      {
+        "id": "D",
+        "text": "7–10 members"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w8-q8",
+    "week": 8,
+    "number": 8,
+    "text": "Which of the following code testing method requires simulation of code execution by hand?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Code walkthrough"
+      },
+      {
+        "id": "B",
+        "text": "Code inspection"
+      },
+      {
+        "id": "C",
+        "text": "Black box testing"
+      },
+      {
+        "id": "D",
+        "text": "White box testing"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w8-q9",
+    "week": 8,
+    "number": 9,
+    "text": "Uninitialized variable is one of the common errors in programming that can be identified through code inspection.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w8-q10",
+    "week": 8,
+    "number": 10,
+    "text": "Which of the following is not required to perform black box testing?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Equivalence class partitioning"
+      },
+      {
+        "id": "B",
+        "text": "Boundary value analysis"
+      },
+      {
+        "id": "C",
+        "text": "Test suite creation"
+      },
+      {
+        "id": "D",
+        "text": "Knowledge of the internal structure of the code"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w9-q1",
+    "week": 9,
+    "number": 1,
+    "text": "Set of all test cases with which a given software is to be tested is known as ________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Testcase"
+      },
+      {
+        "id": "B",
+        "text": "Test suite"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w9-q2",
+    "week": 9,
+    "number": 2,
+    "text": "Randomly selected test cases do not necessarily contribute to significance of test suite.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w9-q3",
+    "week": 9,
+    "number": 3,
+    "text": "In black box testing the two main approaches to design test vases are: Equivalence class partitioning and _______________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Structural analysis"
+      },
+      {
+        "id": "B",
+        "text": "Boundary value analysis"
+      },
+      {
+        "id": "C",
+        "text": "Equivalence class analysis"
+      },
+      {
+        "id": "D",
+        "text": "System analysis"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w9-q4",
+    "week": 9,
+    "number": 4,
+    "text": "Testing code with any _____ value(s) of an equivalence class is as good as testing with ALL input values belonging to that class.",
+    "options": [
+      {
+        "id": "A",
+        "text": "One"
+      },
+      {
+        "id": "B",
+        "text": "Two"
+      },
+      {
+        "id": "C",
+        "text": "Five"
+      },
+      {
+        "id": "D",
+        "text": "Four"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w9-q5",
+    "week": 9,
+    "number": 5,
+    "text": "In black box testing, domain of input values partitioned into sets, each sets are called _________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Partition class"
+      },
+      {
+        "id": "B",
+        "text": "Equivalence class"
+      },
+      {
+        "id": "C",
+        "text": "Program class"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w9-q6",
+    "week": 9,
+    "number": 6,
+    "text": "Which is/are from the following are valid review based testing",
+    "options": [
+      {
+        "id": "A",
+        "text": "Code walkthrough"
+      },
+      {
+        "id": "B",
+        "text": "Code inspection"
+      },
+      {
+        "id": "C",
+        "text": "Code analysis"
+      },
+      {
+        "id": "D",
+        "text": "Code assessment"
+      }
+    ],
+    "answers": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "id": "w9-q7",
+    "week": 9,
+    "number": 7,
+    "text": "Set of all test cases with which a given software is to be tested is called test _____",
+    "options": [
+      {
+        "id": "A",
+        "text": "Question"
+      },
+      {
+        "id": "B",
+        "text": "Questionnaire"
+      },
+      {
+        "id": "C",
+        "text": "Suite"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w9-q8",
+    "week": 9,
+    "number": 8,
+    "text": "In Black-box testing, the test cases are based on",
+    "options": [
+      {
+        "id": "A",
+        "text": "input"
+      },
+      {
+        "id": "B",
+        "text": "knowledge of design"
+      },
+      {
+        "id": "C",
+        "text": "output"
+      },
+      {
+        "id": "D",
+        "text": "knowledge of code"
+      }
+    ],
+    "answers": [
+      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "w9-q9",
+    "week": 9,
+    "number": 9,
+    "text": "Domain of input values partitioned into set is called equivalence class",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w9-q10",
+    "week": 9,
+    "number": 10,
+    "text": "Functional testing is related to",
+    "options": [
+      {
+        "id": "A",
+        "text": "Black-box testing"
+      },
+      {
+        "id": "B",
+        "text": "White-box testing"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w10-q1",
+    "week": 10,
+    "number": 1,
+    "text": "To do a white-box testing, knowledge of internal structure is required.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w10-q2",
+    "week": 10,
+    "number": 2,
+    "text": "To understand white-box testing strategies, program (flow) visualization helps. To visualize the program we can take help of ________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "CFG"
+      },
+      {
+        "id": "B",
+        "text": "DFD"
+      },
+      {
+        "id": "C",
+        "text": "ERD"
+      },
+      {
+        "id": "D",
+        "text": "Class diagram"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w10-q3",
+    "week": 10,
+    "number": 3,
+    "text": "To construct a CFG we assign numbers to all statements of the program, create a node in the CFG for each numbered statement and_____________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Complement the CFG"
+      },
+      {
+        "id": "B",
+        "text": "Add edges"
+      },
+      {
+        "id": "C",
+        "text": "Sort the nodes"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w10-q4",
+    "week": 10,
+    "number": 4,
+    "text": "Branch coverage guarantees statement coverage.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w10-q5",
+    "week": 10,
+    "number": 5,
+    "text": "In path coverage, test cases should ensure all __________ in the code executed at least once.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Linearly independent paths"
+      },
+      {
+        "id": "B",
+        "text": "Linearly dependent paths"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w10-q6",
+    "week": 10,
+    "number": 6,
+    "text": "To compute cyclomatic complexity, we can use ___________, where E=number of edges, N=number of nodes.",
+    "options": [
+      {
+        "id": "A",
+        "text": "E-N+2"
+      },
+      {
+        "id": "B",
+        "text": "E-N+1"
+      },
+      {
+        "id": "C",
+        "text": "E+N-2"
+      },
+      {
+        "id": "D",
+        "text": "E+N-1"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w10-q7",
+    "week": 10,
+    "number": 7,
+    "text": "Three main stages of system testing is alpha testing, beta testing and _________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gama testing"
+      },
+      {
+        "id": "B",
+        "text": "Sigma testing"
+      },
+      {
+        "id": "C",
+        "text": "Acceptance testing"
+      },
+      {
+        "id": "D",
+        "text": "Omega testing"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w10-q8",
+    "week": 10,
+    "number": 8,
+    "text": "Volume testing tests system performance for ______ input.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Small"
+      },
+      {
+        "id": "B",
+        "text": "Large"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w10-q9",
+    "week": 10,
+    "number": 9,
+    "text": "There are _____ stages of empirical research.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Three"
+      },
+      {
+        "id": "B",
+        "text": "Four"
+      },
+      {
+        "id": "C",
+        "text": "Five"
+      },
+      {
+        "id": "D",
+        "text": "Six"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w10-q10",
+    "week": 10,
+    "number": 10,
+    "text": "Data we get from observation is ________ data.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reflective"
+      },
+      {
+        "id": "B",
+        "text": "Empirical"
+      },
+      {
+        "id": "C",
+        "text": "Authoritative"
+      },
+      {
+        "id": "D",
+        "text": "Experiential"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w11-q1",
+    "week": 11,
+    "number": 1,
+    "text": "When we perform a controlled experiment to collect and analyze data on user behavior, the entire process is known as ___________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "programmable research"
+      },
+      {
+        "id": "B",
+        "text": "hypothetical research"
+      },
+      {
+        "id": "C",
+        "text": "empirical research"
+      },
+      {
+        "id": "D",
+        "text": "theoretical research"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w11-q2",
+    "week": 11,
+    "number": 2,
+    "text": "There are broadly ___________ stages of empirical research?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two"
+      },
+      {
+        "id": "B",
+        "text": "three"
+      },
+      {
+        "id": "C",
+        "text": "four"
+      },
+      {
+        "id": "D",
+        "text": "five"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w11-q3",
+    "week": 11,
+    "number": 3,
+    "text": "Suppose we formed two research questions: RQ1: Is the new technique good? RQ2: Is our text input interface better than the text input interface provided by, say, MS Word? RQ3: Does the new interface let me enter text “faster” than MS Word? We call RQ3 ____________ and RQ1 as _______________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "testable, non-testable"
+      },
+      {
+        "id": "B",
+        "text": "alternative hypothesis, null hypothesis"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w11-q4",
+    "week": 11,
+    "number": 4,
+    "text": "When we form a hypothesis, essentially stating that the test condition is not going to affect the outcome (judgment). This hypothesis is called ____________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "null hypothesis"
+      },
+      {
+        "id": "B",
+        "text": "alternative hypothesis"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w11-q5",
+    "week": 11,
+    "number": 5,
+    "text": "In ____________, we assign some (arbitrary) codes to attributes of observational data.",
+    "options": [
+      {
+        "id": "A",
+        "text": "nominal"
+      },
+      {
+        "id": "B",
+        "text": "ordinal"
+      },
+      {
+        "id": "C",
+        "text": "interval"
+      },
+      {
+        "id": "D",
+        "text": "ratio"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w11-q6",
+    "week": 11,
+    "number": 6,
+    "text": "Recording data from a thermometer is an example of interval scaled data.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w11-q7",
+    "week": 11,
+    "number": 7,
+    "text": "____________ are variables that influence both the independent and dependent variables in a study, potentially leading to incorrect conclusions about the relationship between the two.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dependent variables"
+      },
+      {
+        "id": "B",
+        "text": "Independent variables"
+      },
+      {
+        "id": "C",
+        "text": "Confounding variables"
+      },
+      {
+        "id": "D",
+        "text": "Control variables"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w11-q8",
+    "week": 11,
+    "number": 8,
+    "text": "For any pilot study (or small-scale studies), 5 is probably a good number.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w11-q9",
+    "week": 11,
+    "number": 9,
+    "text": "To draw reliable conclusions from empirical data, we should use between ____________ and _____________ participants.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 5"
+      },
+      {
+        "id": "B",
+        "text": "2, 5"
+      },
+      {
+        "id": "C",
+        "text": "12, 25"
+      },
+      {
+        "id": "D",
+        "text": "10, 12"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w11-q10",
+    "week": 11,
+    "number": 10,
+    "text": "When we distribute the tasks to participants in the way explained above, we call the study as ____________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "between-subject"
+      },
+      {
+        "id": "B",
+        "text": "within-subject"
+      },
+      {
+        "id": "C",
+        "text": "uni-subject"
+      },
+      {
+        "id": "D",
+        "text": "center-subject"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w12-q1",
+    "week": 12,
+    "number": 1,
+    "text": "With the significance test, we try to ______________ the null hypothesis.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Accept"
+      },
+      {
+        "id": "B",
+        "text": "Refute"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w12-q2",
+    "week": 12,
+    "number": 2,
+    "text": "Type I error is also known as ______________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "False positive"
+      },
+      {
+        "id": "B",
+        "text": "False negative"
+      },
+      {
+        "id": "C",
+        "text": "True positive"
+      },
+      {
+        "id": "D",
+        "text": "True negative"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w12-q3",
+    "week": 12,
+    "number": 3,
+    "text": "t-statistic is the ONLY way to test for statistical significance.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w12-q4",
+    "week": 12,
+    "number": 4,
+    "text": "There are broadly two categories of the techniques for significance test: ______________ and ____________ .",
+    "options": [
+      {
+        "id": "A",
+        "text": "Parametric and Non-parametric"
+      },
+      {
+        "id": "B",
+        "text": "t-test and non t-test"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w12-q5",
+    "week": 12,
+    "number": 5,
+    "text": "Project planning involves estimation of Project size, Cost, Duration and Effort.",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w12-q6",
+    "week": 12,
+    "number": 6,
+    "text": "COCOMO stands for ________________.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Conducive Cost Estimation Model"
+      },
+      {
+        "id": "B",
+        "text": "Constructive Cost Estimation Model"
+      },
+      {
+        "id": "C",
+        "text": "Constructive Category Estimation Model"
+      },
+      {
+        "id": "D",
+        "text": "Conducive Category Estimation Model"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w12-q7",
+    "week": 12,
+    "number": 7,
+    "text": "According to Boehm, software cost estimation should be done through ________________ stages.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Two"
+      },
+      {
+        "id": "B",
+        "text": "Three"
+      },
+      {
+        "id": "C",
+        "text": "Four"
+      },
+      {
+        "id": "D",
+        "text": "Five"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w12-q8",
+    "week": 12,
+    "number": 8,
+    "text": "Agile development ensure quick turn-around of projects",
+    "options": [
+      {
+        "id": "A",
+        "text": "True"
+      },
+      {
+        "id": "B",
+        "text": "False"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w12-q9",
+    "week": 12,
+    "number": 9,
+    "text": "Scrum is a _____________ method.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Traditional SDLC"
+      },
+      {
+        "id": "B",
+        "text": "Agile"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w12-q10",
+    "week": 12,
+    "number": 10,
+    "text": "In a Gantt chart the length is proportional to ___________ for activity",
+    "options": [
+      {
+        "id": "A",
+        "text": "Duration planned"
+      },
+      {
+        "id": "B",
+        "text": "Effort"
+      },
+      {
+        "id": "C",
+        "text": "Cost"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  }
+]

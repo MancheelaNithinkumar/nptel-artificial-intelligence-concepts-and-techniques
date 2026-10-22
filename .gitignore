@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+/node_modules
+
+# Next.js build output
+.next/
+out/
+
+# runtime & build cache
+.sites-runtime/
+*.tsbuildinfo
+.openai/
+
+# local env files
+.env*.local
+.env
