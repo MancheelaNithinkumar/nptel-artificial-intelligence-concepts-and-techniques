@@ -7,7 +7,7 @@ test('all 12 weeks retain 10 valid questions and original answer options',()=>{
   assert.equal(bank.length,120);assert.equal(new Set(bank.map(q=>q.id)).size,120);
   for(let week=1;week<=12;week++) assert.equal(bank.filter(q=>q.week===week).length,10);
   for(const q of bank){assert.ok(q.text);assert.ok(q.options.length>=2);assert.ok(q.answers.length>=1);for(const a of q.answers)assert.ok(q.options.some(o=>o.id===a));assert.ok(!JSON.stringify(q).includes('CORRECT'));}
-  assert.equal(bank.filter(q=>q.answers.length>1).length,6);
+  assert.equal(bank.filter(q=>q.answers.length>1).length,0);
 });
 test('custom mix includes exactly one Week 1 and four Week 4 questions',()=>{
   const result=buildQuiz(bank,{1:1,4:4});assert.equal(result.length,5);assert.equal(result.filter(q=>q.week===1).length,1);assert.equal(result.filter(q=>q.week===4).length,4);assert.equal(new Set(result.map(q=>q.id)).size,5);

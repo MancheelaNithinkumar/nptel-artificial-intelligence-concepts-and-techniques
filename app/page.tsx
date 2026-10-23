@@ -10,8 +10,8 @@ type Answer = { selected: string[]; checked: boolean };
 type Attempt = { date: string; title: string; total: number; score: number; weeks: number[] };
 type Session = { questions: Question[]; title: string; index: number; responses: Record<string, Answer>; done: boolean; instant: boolean };
 type Saved = { attempts: Attempt[]; bookmarks: string[]; mastered: string[]; session: Session | null };
-const topics = ['Foundations of HCI', 'Understanding users', 'Design principles', 'Interaction & prototypes', 'Usability evaluation', 'Software design', 'Object-oriented design', 'Coding & code review', 'Black-box testing', 'White-box testing', 'Empirical research', 'Statistics & planning'];
-const descriptions = ['Usability, design approaches & development models', 'Contextual inquiry, requirements & affinity diagrams', 'Interface design, golden rules & guidelines', 'Norman’s model, prototyping & walkthroughs', 'Heuristics, questionnaires & feedback', 'Cohesion, coupling, ER diagrams & DFDs', 'Classes, objects, UML & design views', 'Coding guidelines, inspection & walkthroughs', 'Test suites, equivalence classes & boundaries', 'Control flow, coverage & system testing', 'Hypotheses, experiments & measurement', 'Significance testing, estimation & agile'];
+const topics = ['Introduction', 'Search Strategies', 'Genetic Algorithms', 'Propositional and Predicate Logic', 'Expert Systems and Planning', 'Knowledge Representation', 'Decisions', 'Learning and Introduction to Neural Networks', 'Multilayer Perceptron Neural Network and Its Implementation', 'Deep Learning Hands-on and Models', 'Fuzzy Sets and NLP', 'Natural Language Processing, Ethics, Swarm Intelligence and Multi-Agent Systems'];
+const descriptions = ['AI foundations, agents and intelligent systems', 'Uninformed and informed search, minimax and pruning', 'Local search, genetic algorithms and simulated annealing', 'Propositional logic, predicate logic and inference', 'Expert systems, planning and planning graphs', 'Semantic networks, non-monotonic reasoning and frames', 'Bayesian networks, decision theory and utility', 'Learning, kNN, SVM and decision trees', 'Multilayer perceptrons, class imbalance and version space', 'CNNs, RNNs, transformers and generative models', 'Transformers, fuzzy sets and fuzzy control', 'NLP, ethics, swarm intelligence and multi-agent systems'];
 const empty: Saved = { attempts: [], bookmarks: [], mastered: [], session: null };
 const initialCounts = Object.fromEntries(Array.from({length:12},(_,i)=>[i+1,0]));
 
@@ -29,10 +29,10 @@ export default function Home() {
   const [quit, setQuit] = useState(false);
   const [storageWarning, setStorageWarning] = useState(false);
   useEffect(() => {
-    try { const raw = localStorage.getItem('hci-studio-v1'); if (raw) { const data = JSON.parse(raw); if (Array.isArray(data.attempts) && Array.isArray(data.bookmarks) && Array.isArray(data.mastered)) setSaved(data); } } catch { setStorageWarning(true); }
+    try { const raw = localStorage.getItem('ai-studio-v1') || localStorage.getItem('hci-studio-v1'); if (raw) { const data = JSON.parse(raw); if (Array.isArray(data.attempts) && Array.isArray(data.bookmarks) && Array.isArray(data.mastered)) setSaved(data); } } catch { setStorageWarning(true); }
     setReady(true);
   }, []);
-  useEffect(() => { if (ready) { try { localStorage.setItem('hci-studio-v1', JSON.stringify(saved)); } catch { setStorageWarning(true); } } }, [saved, ready]);
+  useEffect(() => { if (ready) { try { localStorage.setItem('ai-studio-v1', JSON.stringify(saved)); } catch { setStorageWarning(true); } } }, [saved, ready]);
   const session = saved.session;
   const active = session && !session.done && view === 'quiz';
   const totalSelected = Object.values(counts).reduce((a,b)=>a+b,0);
@@ -71,21 +71,21 @@ export default function Home() {
 
   return <div className="app-shell">
     <aside className={`sidebar ${mobile?'open':''}`}>
-      <a className="brand" href="#" onClick={e=>{e.preventDefault();navigate('dashboard')}}><span className="brand-icon"><Layers3 size={24}/></span><span>HCI<span className="brand-light"> studio</span><small>YOUR PRACTICE SPACE</small></span></a>
+      <a className="brand" href="#" onClick={e=>{e.preventDefault();navigate('dashboard')}}><span className="brand-icon"><Layers3 size={24}/></span><span>AI<span className="brand-light"> studio</span><small>YOUR PRACTICE SPACE</small></span></a>
       <div className="sidebar-caption">WORKSPACE</div>
       <nav>{navItems.map(({id,label,icon:Icon})=><button key={id} onClick={()=>navigate(id)} className={view===id||(id==='dashboard'&&view==='results')?'nav-active':''}><Icon size={19}/>{label}{id==='mix'&&<span className="nav-new">NEW</span>}{id==='bookmarks'&&saved.bookmarks.length>0&&<span className="nav-count">{saved.bookmarks.length}</span>}</button>)}</nav>
       <div className="sidebar-note"><span className="mini-orbit"><InfinityIcon size={23}/></span><h4>A little practice.<br/>A lot of progress.</h4><p>No timer. No attempt limits.<br/>Just you, getting better.</p></div>
-      <div className="course-label"><GraduationCap size={20}/><span>NPTEL · HCI<small>Developed by Swamy Rayudu</small></span></div>
+      <div className="course-label"><GraduationCap size={20}/><span>NPTEL · AI<small>Developed by Nithin Kumar</small></span></div>
     </aside>
     {mobile&&<button aria-label="Close navigation" className="sidebar-backdrop" onClick={()=>setMobile(false)}/>}
     <div className="main-shell">
-      <header className="topbar"><div className="breadcrumb"><button className="mobile-menu icon-button" aria-label="Open navigation" onClick={()=>setMobile(true)}><Menu size={21}/></button><span>My workspace</span><ChevronRight size={14}/><strong>{view==='quiz'?'Practice session':view==='results'?'Session results':navItems.find(n=>n.id===view)?.label}</strong></div><div className="topbar-right"><span className="live-dot"/>Developed by Swamy Rayudu<span className="avatar">SR</span></div></header>
+      <header className="topbar"><div className="breadcrumb"><button className="mobile-menu icon-button" aria-label="Open navigation" onClick={()=>setMobile(true)}><Menu size={21}/></button><span>My workspace</span><ChevronRight size={14}/><strong>{view==='quiz'?'Practice session':view==='results'?'Session results':navItems.find(n=>n.id===view)?.label}</strong></div><div className="topbar-right"><span className="live-dot"/>Developed by Nithin Kumar<span className="avatar">NK</span></div></header>
       <main>
         {storageWarning&&<div className="notice">Browser storage is unavailable. Your practice works, but progress may not be saved after closing this page.</div>}
         {(view==='dashboard'||view==='weeks')&&<>
-          <div className="page-heading"><div><span className="eyebrow">DESIGN & IMPLEMENTATION OF HUMAN-COMPUTER INTERFACES</span><h1>{view==='weeks'?'One week at a time.':'Make every practice count.'}</h1><p>Your HCI revision, at your pace. Pick a week or build your own question mix.</p></div><span className="course-pill"><span/>NPTEL COLLECTION</span></div>
+          <div className="page-heading"><div><span className="eyebrow">ARTIFICIAL INTELLIGENCE: CONCEPTS AND TECHNIQUES</span><h1>{view==='weeks'?'One week at a time.':'Make every practice count.'}</h1><p>Your AI revision, at your pace. Pick a week or build your own question mix.</p></div><span className="course-pill"><span/>NPTEL COLLECTION</span></div>
           {view==='dashboard'&&<>
-            <section className="hero"><div className="hero-copy"><div style={{display:'flex',alignItems:'center',gap:'8px',flexWrap:'wrap',marginBottom:'8px'}}><span className="hero-kicker"><Sparkles size={15}/> A LITTLE MORE CONFIDENT, EVERY DAY</span><span className="developer-tag">Developed by Swamy Rayudu</span></div><h2>Small sessions.<br/><span>Stronger understanding.</span></h2><p>All 12 weeks. Every question. Unlimited chances to<br className="desktop-break"/> connect the dots and make it stick.</p><button className="primary" onClick={()=>startWeek(1)}>Start practicing <ArrowRight size={17}/></button><span className="hero-meta"><InfinityIcon size={16}/> Unlimited time & attempts</span></div><div className="hero-art" aria-hidden="true"><div className="orbit orbit-one"/><div className="orbit orbit-two"/><div className="art-dot dot-one"/><div className="art-dot dot-two"/><div className="float-label"><CheckCircle2 size={17}/> One question closer.</div><div className="art-card back-card"/><div className="art-card main-art-card"><div className="art-card-top"><span>HCI / PRACTICE</span><Layers3 size={20}/></div><div className="art-title">Learn.<br/>Try. Repeat.</div><div className="art-lines"><span/><span/></div><div className="art-card-bottom"><span>12 WEEKS TO EXPLORE</span><ArrowUpRight size={24}/></div></div><div className="infinity-stamp"><InfinityIcon size={31}/></div></div></section>
+            <section className="hero"><div className="hero-copy"><div style={{display:'flex',alignItems:'center',gap:'8px',flexWrap:'wrap',marginBottom:'8px'}}><span className="hero-kicker"><Sparkles size={15}/> A LITTLE MORE CONFIDENT, EVERY DAY</span><span className="developer-tag">Developed by Nithin Kumar</span></div><h2>Small sessions.<br/><span>Stronger understanding.</span></h2><p>All 12 weeks. Every question. Unlimited chances to<br className="desktop-break"/> connect the dots and make it stick.</p><button className="primary" onClick={()=>startWeek(1)}>Start practicing <ArrowRight size={17}/></button><span className="hero-meta"><InfinityIcon size={16}/> Unlimited time & attempts</span></div><div className="hero-art" aria-hidden="true"><div className="orbit orbit-one"/><div className="orbit orbit-two"/><div className="art-dot dot-one"/><div className="art-dot dot-two"/><div className="float-label"><CheckCircle2 size={17}/> One question closer.</div><div className="art-card back-card"/><div className="art-card main-art-card"><div className="art-card-top"><span>AI / PRACTICE</span><Layers3 size={20}/></div><div className="art-title">Learn.<br/>Try. Repeat.</div><div className="art-lines"><span/><span/></div><div className="art-card-bottom"><span>12 WEEKS TO EXPLORE</span><ArrowUpRight size={24}/></div></div><div className="infinity-stamp"><InfinityIcon size={31}/></div></div></section>
             <div className="stats-grid"><div className="stat"><span className="stat-icon sage"><BookOpen size={20}/></span><div><strong>12 <small>weeks</small></strong><p>A complete learning journey</p></div></div><div className="stat"><span className="stat-icon lavender"><Layers3 size={20}/></span><div><strong>120 <small>questions</small></strong><p>From your course collection</p></div></div><div className="stat"><span className="stat-icon peach"><Target size={20}/></span><div><strong>{saved.attempts.length?`${accuracy}%`:'—'} <small>accuracy</small></strong><p>{saved.attempts.length?`Across ${saved.attempts.length} completed sessions`:'Your next session starts the story'}</p></div></div></div>
             {session&&!session.done&&<div className="resume-banner"><span><Zap size={17}/> Your practice is waiting · {session.title}</span><button onClick={()=>navigate('quiz')}>Resume session <ArrowRight size={15}/></button></div>}
           </>}
@@ -122,8 +122,36 @@ export default function Home() {
           <div className="section-heading"><h2>Let’s connect the dots.</h2><span className="subtle-label">ANSWER REVIEW</span></div><div className="review-list">{session.questions.map((q,i)=>{const a=session.responses[q.id]?.selected??[];const good=isCorrect(a,q.answers);return <article key={q.id} className="panel review-card"><div className="question-meta"><span className="week-label">{i+1}. WEEK {q.week} · QUESTION {q.number}</span><span className={`review-status ${good?'good':'bad'}`}>{good?<CheckCircle2 size={16}/>:<X size={16}/>} {good?'Correct':a.length?'Incorrect':'Unanswered'}</span></div><h3>{q.text}</h3><p>Your answer: {a.length?q.options.filter(o=>a.includes(o.id)).map(o=>`${o.id}. ${o.text}`).join(' · '):'Not answered'}</p><div className="correct-answer">Correct: {q.options.filter(o=>q.answers.includes(o.id)).map(o=>`${o.id}. ${o.text}`).join(' · ')}</div></article>})}</div>
         </>})()}
         {view==='quiz'&&!active&&<div className="empty-state panel"><BookOpen size={35}/><h2>Your next session is waiting.</h2><button className="primary" onClick={()=>navigate('weeks')}>Choose a week <ArrowRight size={16}/></button></div>}
-        <footer><span>HCI studio <span className="footer-dot">·</span> Developed by Swamy Rayudu</span><span>Based on your NPTEL PDF · Independent practice tool</span></footer>
+        <footer><span>AI studio <span className="footer-dot">·</span> Developed by Nithin Kumar</span><span>Based on your NPTEL PDF · Independent practice tool</span></footer>
       </main>
+      {!active && (
+        <nav className="mobile-bottom-nav" aria-label="Quick mobile navigation">
+          <button className={view==='dashboard'?'nav-active':''} onClick={()=>navigate('dashboard')} aria-label="Overview">
+            <LayoutDashboard size={20}/>
+            <span>Home</span>
+          </button>
+          <button className={view==='weeks'?'nav-active':''} onClick={()=>navigate('weeks')} aria-label="Weeks">
+            <BookOpen size={20}/>
+            <span>Weeks</span>
+          </button>
+          <button className={view==='mix'?'nav-active':''} onClick={()=>navigate('mix')} aria-label="Custom mix">
+            <Layers3 size={20}/>
+            <span>Mix</span>
+          </button>
+          <button className={view==='bank'?'nav-active':''} onClick={()=>navigate('bank')} aria-label="Question Bank">
+            <Search size={20}/>
+            <span>Bank</span>
+          </button>
+          <button className={view==='bookmarks'?'nav-active':''} onClick={()=>navigate('bookmarks')} aria-label="Saved questions">
+            <Bookmark size={20}/>
+            <span>Saved{saved.bookmarks.length>0?` (${saved.bookmarks.length})`:''}</span>
+          </button>
+          <button className={view==='progress'?'nav-active':''} onClick={()=>navigate('progress')} aria-label="Progress">
+            <ChartNoAxesColumnIncreasing size={20}/>
+            <span>Stats</span>
+          </button>
+        </nav>
+      )}
     </div>
   </div>;
 }

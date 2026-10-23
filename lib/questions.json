@@ -3,50 +3,50 @@
     "id": "w1-q1",
     "week": 1,
     "number": 1,
-    "text": "While we talk about the evaluation phases of the computer, ______ is called the modern age of computers.",
+    "text": "What is Artificial Intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "1985 onwards"
+        "text": "Artificial Intelligence is a field that aims to make humans more intelligent."
       },
       {
         "id": "B",
-        "text": "1998 onwards"
+        "text": "Artificial Intelligence is a field that aims to improve the security."
       },
       {
         "id": "C",
-        "text": "2007 onwards"
+        "text": "Artificial Intelligence is a field that aims to develop intelligent machines."
       },
       {
         "id": "D",
-        "text": "2011 onwards"
+        "text": "Artificial Intelligence is a field that aims to mine the data."
       }
     ],
     "answers": [
-      "D"
+      "C"
     ]
   },
   {
     "id": "w1-q2",
     "week": 1,
     "number": 2,
-    "text": "Which among the following is NOT a generic category of users?",
+    "text": "Which of the following is a branch of Artificial Intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "Novice"
+        "text": "Cyber Forensics"
       },
       {
         "id": "B",
-        "text": "Super knowledgeable"
+        "text": "Machine Learning"
       },
       {
         "id": "C",
-        "text": "Intermittent"
+        "text": "Network Design"
       },
       {
         "id": "D",
-        "text": "Expert"
+        "text": "Full-stack Developer"
       }
     ],
     "answers": [
@@ -57,77 +57,23 @@
     "id": "w1-q3",
     "week": 1,
     "number": 3,
-    "text": "In the Spiral Model, why is the second quadrant crucial for interactive software development?",
+    "text": "Which of the following is a component of Artificial Intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "It defines the UI layout"
+        "text": "Training"
       },
       {
         "id": "B",
-        "text": "It finalizes the system architecture"
+        "text": "Designing"
       },
       {
         "id": "C",
-        "text": "It identifies and mitigates usability risks via prototyping"
+        "text": "Coding"
       },
       {
         "id": "D",
-        "text": "It handles testing and deployment"
-      }
-    ],
-    "answers": [
-      "C"
-    ]
-  },
-  {
-    "id": "w1-q4",
-    "week": 1,
-    "number": 4,
-    "text": "What does the term 'utility' refer to in the context of usability?",
-    "options": [
-      {
-        "id": "A",
-        "text": "Speed of task completion"
-      },
-      {
-        "id": "B",
-        "text": "Visual appeal of the design"
-      },
-      {
-        "id": "C",
-        "text": "Functional support for user needs"
-      },
-      {
-        "id": "D",
-        "text": "Frequency of feature updates"
-      }
-    ],
-    "answers": [
-      "C"
-    ]
-  },
-  {
-    "id": "w1-q5",
-    "week": 1,
-    "number": 5,
-    "text": "Which one of the following is NOT a computer?",
-    "options": [
-      {
-        "id": "A",
-        "text": "Desktop"
-      },
-      {
-        "id": "B",
-        "text": "Digital Pedometer"
-      },
-      {
-        "id": "C",
-        "text": "Smartphone"
-      },
-      {
-        "id": "D",
-        "text": "None of the above"
+        "text": "Learning"
       }
     ],
     "answers": [
@@ -135,26 +81,26 @@
     ]
   },
   {
-    "id": "w1-q6",
+    "id": "w1-q4",
     "week": 1,
-    "number": 6,
-    "text": "Interactive software development is _______ in nature.",
+    "number": 4,
+    "text": "What is an agent's percept sequence?",
     "options": [
       {
         "id": "A",
-        "text": "sporadic"
+        "text": "The sequence of all actions the agent takes"
       },
       {
         "id": "B",
-        "text": "iterative"
+        "text": "A complete history of everything the agent has ever perceived"
       },
       {
         "id": "C",
-        "text": "variable"
+        "text": "The hardware architecture of the agent"
       },
       {
         "id": "D",
-        "text": "discrete"
+        "text": "The sequence of the agent's goals"
       }
     ],
     "answers": [
@@ -162,53 +108,107 @@
     ]
   },
   {
-    "id": "w1-q7",
+    "id": "w1-q5",
     "week": 1,
-    "number": 7,
-    "text": "Which of the following is NOT one of the five quality components of usability proposed by Jacob Nielsen?",
+    "number": 5,
+    "text": "Which agent architecture requires a representation of \"how the world works\" to keep track of unobserved aspects of the environment?",
     "options": [
       {
         "id": "A",
-        "text": "Learnability"
+        "text": "Simple reflex agent"
       },
       {
         "id": "B",
-        "text": "Efficiency"
+        "text": "Model-based agent"
       },
       {
         "id": "C",
-        "text": "Satisfaction"
+        "text": "Table-driven agent"
       },
       {
         "id": "D",
-        "text": "Memorization"
+        "text": "Goal-based agent"
       }
     ],
     "answers": [
-      "D"
+      "B"
+    ]
+  },
+  {
+    "id": "w1-q6",
+    "week": 1,
+    "number": 6,
+    "text": "Which type of agent chooses actions purely based on the current condition and ignores the perceptual past?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Goal-based agent"
+      },
+      {
+        "id": "B",
+        "text": "Learning agent"
+      },
+      {
+        "id": "C",
+        "text": "Simple reflex agent"
+      },
+      {
+        "id": "D",
+        "text": "Utility-based agent"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w1-q7",
+    "week": 1,
+    "number": 7,
+    "text": "Which agent type uses a \"problem generator\" to suggest new actions and explore new paths?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Model-based agent"
+      },
+      {
+        "id": "B",
+        "text": "Learning agent"
+      },
+      {
+        "id": "C",
+        "text": "Simple reflex agent"
+      },
+      {
+        "id": "D",
+        "text": "Utility-based agent"
+      }
+    ],
+    "answers": [
+      "B"
     ]
   },
   {
     "id": "w1-q8",
     "week": 1,
     "number": 8,
-    "text": "Which of the following is NOT a characteristic of the Waterfall model?",
+    "text": "What is the defining characteristic of a \"Rational Agent\"?",
     "options": [
       {
         "id": "A",
-        "text": "Feasibility study"
+        "text": "It always learns through reinforcement"
       },
       {
         "id": "B",
-        "text": "Learnability study"
+        "text": "It selects actions expected to maximize its performance measure based on its percept"
       },
       {
         "id": "C",
-        "text": "System integration and testing"
+        "text": "It has a fully observable environment"
       },
       {
         "id": "D",
-        "text": "Maintenance"
+        "text": "It completely avoids human intervention"
       }
     ],
     "answers": [
@@ -219,50 +219,50 @@
     "id": "w1-q9",
     "week": 1,
     "number": 9,
-    "text": "‘Identify objectives’ and ‘customer evaluation and planning’ is in the ______ and ______ quadrant of the spiral model respectively.",
+    "text": "In Artificial Intelligence, an informed search strategy is also known as:",
     "options": [
       {
         "id": "A",
-        "text": "First, Fourth"
+        "text": "Blind search"
       },
       {
         "id": "B",
-        "text": "Second, Third"
+        "text": "Brute-force search"
       },
       {
         "id": "C",
-        "text": "Third, Fourth"
+        "text": "Heuristic search"
       },
       {
         "id": "D",
-        "text": "Fourth, Second"
+        "text": "Exhaustive search"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w1-q10",
     "week": 1,
     "number": 10,
-    "text": "Which design approach focuses on what a programmer finds interesting to build?",
+    "text": "In Artificial Intelligence, a search which does not use any domain knowledge is known as:",
     "options": [
       {
         "id": "A",
-        "text": "System-Centered Design"
+        "text": "Blind search"
       },
       {
         "id": "B",
-        "text": "User-Centered Design"
+        "text": "Best-first search"
       },
       {
         "id": "C",
-        "text": "Utility-Based Design"
+        "text": "Heuristic search"
       },
       {
         "id": "D",
-        "text": "Participatory Design"
+        "text": "Greedy search"
       }
     ],
     "answers": [
@@ -273,19 +273,50 @@
     "id": "w2-q1",
     "week": 2,
     "number": 1,
-    "text": "Contextual inquiry is also known as ___________.",
+    "text": "Problem-solving agents are designed to:",
     "options": [
       {
         "id": "A",
-        "text": "Interview"
+        "text": "Play games only"
       },
       {
         "id": "B",
-        "text": "Observation"
+        "text": "Solve specific problems by searching for solutions"
       },
       {
         "id": "C",
-        "text": "Semi-structured interview"
+        "text": "Manage computer networks"
+      },
+      {
+        "id": "D",
+        "text": "Create animations"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w2-q2",
+    "week": 2,
+    "number": 2,
+    "text": "Which data structure is used to implement a Breadth-First Search (BFS) algorithm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stack"
+      },
+      {
+        "id": "B",
+        "text": "Priority queue"
+      },
+      {
+        "id": "C",
+        "text": "Queue"
+      },
+      {
+        "id": "D",
+        "text": "Hash table"
       }
     ],
     "answers": [
@@ -293,180 +324,134 @@
     ]
   },
   {
-    "id": "w2-q2",
-    "week": 2,
-    "number": 2,
-    "text": "In SRS, functions are not represented as",
-    "options": [
-      {
-        "id": "A",
-        "text": "Function name"
-      },
-      {
-        "id": "B",
-        "text": "Input"
-      },
-      {
-        "id": "C",
-        "text": "Output"
-      },
-      {
-        "id": "D",
-        "text": "Description"
-      },
-      {
-        "id": "E",
-        "text": "Motivation"
-      }
-    ],
-    "answers": [
-      "E"
-    ]
-  },
-  {
     "id": "w2-q3",
     "week": 2,
     "number": 3,
-    "text": "Contextual inquiry can be done in _______ and passive mode.",
+    "text": "Which uninformed search algorithm evaluates and expands the node with the lowest path cost g(n) first?",
     "options": [
       {
         "id": "A",
-        "text": "active"
+        "text": "Breadth-first search"
       },
       {
         "id": "B",
-        "text": "semi-active"
+        "text": "Uniform cost strategy"
       },
       {
         "id": "C",
-        "text": "neutral"
+        "text": "Depth-first search"
+      },
+      {
+        "id": "D",
+        "text": "Depth-limited search"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w2-q4",
     "week": 2,
     "number": 4,
-    "text": "There are _______ stages in contextual inquiry.",
+    "text": "Depth-first search always expands the ______ node in the current fringe of the search tree.",
     "options": [
       {
         "id": "A",
-        "text": "two"
+        "text": "Shallowest"
       },
       {
         "id": "B",
-        "text": "five"
+        "text": "Child node"
       },
       {
         "id": "C",
-        "text": "six"
+        "text": "Deepest"
       },
       {
         "id": "D",
-        "text": "eight"
+        "text": "Minimum cost"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w2-q5",
     "week": 2,
     "number": 5,
-    "text": "Which stage in the Contextual Inquiry process involves arranging for recording observations and scripting the procedure?",
+    "text": "Which search strategy is guaranteed to find the shortest path in a graph?",
     "options": [
       {
         "id": "A",
-        "text": "Plan Stage"
+        "text": "Depth-first search"
       },
       {
         "id": "B",
-        "text": "Initiate Stage"
+        "text": "Breadth-first search"
       },
       {
         "id": "C",
-        "text": "Execute Stage"
+        "text": "Greedy best-first search"
       },
       {
         "id": "D",
-        "text": "Reflect Stage"
+        "text": "Hill climbing search"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w2-q6",
     "week": 2,
     "number": 6,
-    "text": "Affinity diagram method consists of _______ steps.",
+    "text": "Which of the following is an uninformed search strategy?",
     "options": [
       {
         "id": "A",
-        "text": "Three"
+        "text": "Greedy best-first search"
       },
       {
         "id": "B",
-        "text": "Two"
+        "text": "A* algorithm"
       },
       {
         "id": "C",
-        "text": "Six"
+        "text": "Breadth-first search"
       },
       {
         "id": "D",
-        "text": "Five"
+        "text": "Hill climbing search"
       }
     ],
     "answers": [
-      "D"
+      "C"
     ]
   },
   {
     "id": "w2-q7",
     "week": 2,
     "number": 7,
-    "text": "Usability requirements is one type of ______.",
+    "text": "Greedy best-first search uses:",
     "options": [
       {
         "id": "A",
-        "text": "Functional Requirement"
+        "text": "A heuristic to estimate the cost to the goal"
       },
       {
         "id": "B",
-        "text": "Non-functional requirement"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w2-q8",
-    "week": 2,
-    "number": 8,
-    "text": "What is the primary objective of Contextual Inquiry?",
-    "options": [
-      {
-        "id": "A",
-        "text": "To watch and observe users perform tasks in their natural work setting"
-      },
-      {
-        "id": "B",
-        "text": "To conduct semi-structured interviews with users"
+        "text": "The path cost from the start node"
       },
       {
         "id": "C",
-        "text": "To develop design recommendations"
+        "text": "Random exploration"
       },
       {
         "id": "D",
-        "text": "To study user behavior using physical note-taking"
+        "text": "Depth-limited search"
       }
     ],
     "answers": [
@@ -474,22 +459,26 @@
     ]
   },
   {
-    "id": "w2-q9",
+    "id": "w2-q8",
     "week": 2,
-    "number": 9,
-    "text": "What is the purpose of the \"Reflect\" stage in the Contextual Inquiry process?",
+    "number": 8,
+    "text": "A heuristic function is:",
     "options": [
       {
         "id": "A",
-        "text": "To contact the authorities for permission"
+        "text": "A function that calculates the exact cost to the goal"
       },
       {
         "id": "B",
-        "text": "To analyze the data collected and identify design goals"
+        "text": "A function that estimates the cost to the goal"
       },
       {
         "id": "C",
-        "text": "To script the procedure and rehearse for observations"
+        "text": "A function that generates random numbers"
+      },
+      {
+        "id": "D",
+        "text": "A function used only in uninformed search"
       }
     ],
     "answers": [
@@ -497,22 +486,53 @@
     ]
   },
   {
-    "id": "w2-q10",
+    "id": "w2-q9",
     "week": 2,
-    "number": 10,
-    "text": "How long does the Contextual Inquiry process typically continue?",
+    "number": 9,
+    "text": "What is the primary purpose of the Minimax algorithm?",
     "options": [
       {
         "id": "A",
-        "text": "One to two weeks"
+        "text": "To find the shortest path in a graph"
       },
       {
         "id": "B",
-        "text": "One to two hours"
+        "text": "To generate random moves in single-player puzzles"
       },
       {
         "id": "C",
-        "text": "One to two months"
+        "text": "To make the optimal move assuming the opponent also plays optimally"
+      },
+      {
+        "id": "D",
+        "text": "To speed up the processing time of a game engine"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w2-q10",
+    "week": 2,
+    "number": 10,
+    "text": "What is the main advantage of using Alpha-Beta pruning over the standard Minimax algorithm?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It avoids the need to evaluate leaf nodes entirely"
+      },
+      {
+        "id": "B",
+        "text": "It eliminates unnecessary branches in the game tree without affecting the final decision"
+      },
+      {
+        "id": "C",
+        "text": "It guarantees a win for both players in a zero-sum game"
+      },
+      {
+        "id": "D",
+        "text": "It allows the AI to play games with incomplete information"
       }
     ],
     "answers": [
@@ -523,161 +543,131 @@
     "id": "w3-q1",
     "week": 3,
     "number": 1,
-    "text": "In SRS document the functions should describe HOW to get the output from the given input.",
+    "text": "State the best-case scenario for alpha-beta pruning in terms of node ordering.",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Worst-to-best"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Random"
+      },
+      {
+        "id": "C",
+        "text": "Best-to-worst"
+      },
+      {
+        "id": "D",
+        "text": "Best-first"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w3-q2",
     "week": 3,
     "number": 2,
-    "text": "We can also add new functional requirements based on the observations made in contextual inquiry.",
+    "text": "Local search algorithms are typically used when:",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "The exact path to the goal state is crucial"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "The path to the goal is completely irrelevant, and only the final state matters"
+      },
+      {
+        "id": "C",
+        "text": "The state space is very small and can be fully tracked"
+      },
+      {
+        "id": "D",
+        "text": "No heuristic information is available"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w3-q3",
     "week": 3,
     "number": 3,
-    "text": "In user-centered design, we have two concerns: Interface design and",
+    "text": "What is the time complexity of the minimax algorithm in terms of the branching factor (b) and maximum depth (m) of the tree?",
     "options": [
       {
         "id": "A",
-        "text": "Machine design"
+        "text": "O(b × m)"
       },
       {
         "id": "B",
-        "text": "Hardware design"
+        "text": "O(b + m)"
       },
       {
         "id": "C",
-        "text": "Code design"
+        "text": "O(b/m)"
       },
       {
         "id": "D",
-        "text": "System design"
+        "text": "O(b^m)"
       }
     ],
     "answers": [
-      "C"
+      "D"
     ]
   },
   {
     "id": "w3-q4",
     "week": 3,
     "number": 4,
-    "text": "The design-prototype-evaluate cycle primarily caters to ________ design.",
+    "text": "Hill-Climbing search is often referred to as a \"greedy local search\" because:",
     "options": [
       {
         "id": "A",
-        "text": "Interface"
+        "text": "It evaluates all global nodes before making any structural decision"
       },
       {
         "id": "B",
-        "text": "Code"
+        "text": "It chooses the best immediate neighboring state without thinking ahead"
       },
       {
         "id": "C",
-        "text": "System"
+        "text": "It keeps expanding nodes until all memory allocations are fully filled"
+      },
+      {
+        "id": "D",
+        "text": "It relies entirely on a pre-computed target oracle"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w3-q5",
     "week": 3,
     "number": 5,
-    "text": "Code design can be expressed in natural languages, semi-formal languages and ____________.",
+    "text": "In a Genetic Algorithm, the process of combining parts of two parent solutions to generate new child successor states is formally called:",
     "options": [
       {
         "id": "A",
-        "text": "Informal languages"
+        "text": "Mutation"
       },
       {
         "id": "B",
-        "text": "Formal languages"
+        "text": "Selection"
       },
       {
         "id": "C",
-        "text": "Context sensitive languages"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w3-q6",
-    "week": 3,
-    "number": 6,
-    "text": "DFD is a ___________ code design language.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Natural"
-      },
-      {
-        "id": "B",
-        "text": "Semi-formal"
-      },
-      {
-        "id": "C",
-        "text": "Informal"
+        "text": "Crossover"
       },
       {
         "id": "D",
-        "text": "Context sensitive"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w3-q7",
-    "week": 3,
-    "number": 7,
-    "text": "Shneiderman proposed __________ rules that covers broad aspects of interactive systems.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Five"
-      },
-      {
-        "id": "B",
-        "text": "Seven"
-      },
-      {
-        "id": "C",
-        "text": "Eight"
-      },
-      {
-        "id": "D",
-        "text": "Nine"
+        "text": "Fitness scaling"
       }
     ],
     "answers": [
@@ -685,26 +675,80 @@
     ]
   },
   {
-    "id": "w3-q8",
+    "id": "w3-q6",
     "week": 3,
-    "number": 8,
-    "text": "“The interface should not force users to remember too many things” – this statement falls under “____________”, one of the golden rules proposed by Shneiderman.",
+    "number": 6,
+    "text": "Which genetic operator introduces random changes in an individual's genetic material?",
     "options": [
       {
         "id": "A",
-        "text": "Strive for consistency"
+        "text": "Crossover"
       },
       {
         "id": "B",
-        "text": "Permit easy reversal of actions"
+        "text": "Encoding"
       },
       {
         "id": "C",
-        "text": "Reduce short-term memory load"
+        "text": "Selection"
       },
       {
         "id": "D",
-        "text": "Keep users in control"
+        "text": "Mutation"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w3-q7",
+    "week": 3,
+    "number": 7,
+    "text": "Which local search technique actively utilizes a \"cooling schedule\" parameter to temporarily accept worse moves and escape local optima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genetic algorithm"
+      },
+      {
+        "id": "B",
+        "text": "Stochastic hill climbing"
+      },
+      {
+        "id": "C",
+        "text": "First choice hill climbing"
+      },
+      {
+        "id": "D",
+        "text": "Simulated annealing"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w3-q8",
+    "week": 3,
+    "number": 8,
+    "text": "Which of the following is a primary difference between Genetic Algorithms (GA) and Genetic Programming (GP)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "GAs use fitness functions, whereas GPs do not"
+      },
+      {
+        "id": "B",
+        "text": "GAs mimic biological evolution, whereas GPs mimic human psychology"
+      },
+      {
+        "id": "C",
+        "text": "GAs typically evolve data structures or strings, while GPs explicitly evolve executable computer programs"
+      },
+      {
+        "id": "D",
+        "text": "GAs rely entirely on mutation, while GPs rely entirely on crossover"
       }
     ],
     "answers": [
@@ -715,34 +759,50 @@
     "id": "w3-q9",
     "week": 3,
     "number": 9,
-    "text": "Human interface guidelines for the apple systems are the _________ design guidelines.",
+    "text": "In Simulated Annealing, what does the \"temperature\" parameter control?",
     "options": [
       {
         "id": "A",
-        "text": "Generic"
+        "text": "The memory size of the algorithm"
       },
       {
         "id": "B",
-        "text": "Specific"
+        "text": "The number of neighboring states generated at once"
+      },
+      {
+        "id": "C",
+        "text": "The probability of accepting a worse solution"
+      },
+      {
+        "id": "D",
+        "text": "The speed of the hardware running the algorithm"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w3-q10",
     "week": 3,
     "number": 10,
-    "text": "Identification of data structures and algorithms for different modules is done on the ____________ phase of code design.",
+    "text": "What happens as the temperature (T) approaches zero in the Simulated Annealing algorithm?",
     "options": [
       {
         "id": "A",
-        "text": "Preliminary (high-level design)"
+        "text": "The algorithm acts more like pure random search"
       },
       {
         "id": "B",
-        "text": "Detailed design"
+        "text": "The algorithm behaves increasingly like a greedy Hill Climbing search"
+      },
+      {
+        "id": "C",
+        "text": "The algorithm begins accepting almost any move"
+      },
+      {
+        "id": "D",
+        "text": "The algorithm terminates and clears its memory"
       }
     ],
     "answers": [
@@ -753,42 +813,50 @@
     "id": "w4-q1",
     "week": 4,
     "number": 1,
-    "text": "Norman’s Model of Interaction represents behavior of a user of interactive systems in terms of a series of _________.",
+    "text": "Propositional logic deals with:",
     "options": [
       {
         "id": "A",
-        "text": "actions"
+        "text": "Objects and relations"
       },
       {
         "id": "B",
-        "text": "selection"
+        "text": "True or false statements"
       },
       {
         "id": "C",
-        "text": "manipulation"
+        "text": "Quantifiers"
+      },
+      {
+        "id": "D",
+        "text": "Rules"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w4-q2",
     "week": 4,
     "number": 2,
-    "text": "There are broadly two stages of interaction execution stage and ________ stage.",
+    "text": "Which logic uses predicates and quantifiers?",
     "options": [
       {
         "id": "A",
-        "text": "design"
+        "text": "Propositional logic"
       },
       {
         "id": "B",
-        "text": "evaluation"
+        "text": "Predicate logic"
       },
       {
         "id": "C",
-        "text": "interaction"
+        "text": "Semantic logic"
+      },
+      {
+        "id": "D",
+        "text": "Boolean logic"
       }
     ],
     "answers": [
@@ -799,46 +867,50 @@
     "id": "w4-q3",
     "week": 4,
     "number": 3,
-    "text": "Perceive system state comes under the _______ stage of interaction.",
+    "text": "What is forward chaining?",
     "options": [
       {
         "id": "A",
-        "text": "execution"
+        "text": "Reasoning from facts to solutions"
       },
       {
         "id": "B",
-        "text": "design"
+        "text": "Reasoning from goals to facts"
       },
       {
         "id": "C",
-        "text": "evaluation"
+        "text": "Backtracking"
       },
       {
         "id": "D",
-        "text": "interaction"
+        "text": "Loop detection"
       }
     ],
     "answers": [
-      "C"
+      "A"
     ]
   },
   {
     "id": "w4-q4",
     "week": 4,
     "number": 4,
-    "text": "Actions we specify to translate intentions may not be supported by the interface leading to gap (gulf) between the first three and the last actions in the execution stage- It is called _______.",
+    "text": "Forward chaining is also called:",
     "options": [
       {
         "id": "A",
-        "text": "The gulf of execution"
+        "text": "Data-driven reasoning"
       },
       {
         "id": "B",
-        "text": "The gulf of evaluation"
+        "text": "Goal-driven reasoning"
       },
       {
         "id": "C",
-        "text": "The gulf of Interaction"
+        "text": "Random reasoning"
+      },
+      {
+        "id": "D",
+        "text": "Backward reasoning"
       }
     ],
     "answers": [
@@ -849,38 +921,50 @@
     "id": "w4-q5",
     "week": 4,
     "number": 5,
-    "text": "Particularly in the context of errors during interaction is explained in terms of slips and ______.",
+    "text": "Translate the following statement into FOL: \u201cFor every a, if a is a philosopher, then a is a scholar.\u201d",
     "options": [
       {
         "id": "A",
-        "text": "error"
+        "text": "∀a philosopher(a) → scholar(a)"
       },
       {
         "id": "B",
-        "text": "mistakes"
+        "text": "∃a philosopher(a) ∧ scholar(a)"
       },
       {
         "id": "C",
-        "text": "human error"
+        "text": "∃a philosopher(a) → scholar(a)"
+      },
+      {
+        "id": "D",
+        "text": "None of the above"
       }
     ],
     "answers": [
-      "B"
+      "A"
     ]
   },
   {
     "id": "w4-q6",
     "week": 4,
     "number": 6,
-    "text": "In a vertical prototype, the entire interface is depicted at the surface level without any functionality.",
+    "text": "How do you represent \u201cAll dogs have tails\u201d in FOL?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "∀x,y dog(x) ∧ tail(y) ∧ hasTail(x,y)"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "∀x∃y dog(x) ∧ tail(y) ∧ hasTail(x,y)"
+      },
+      {
+        "id": "C",
+        "text": "∀x,y dog(x) ∧ tail(y) ∧ hasTail(y,x)"
+      },
+      {
+        "id": "D",
+        "text": "∃x,y dog(x) ∧ tail(y) ∧ hasTail(x,y)"
       }
     ],
     "answers": [
@@ -891,172 +975,266 @@
     "id": "w4-q7",
     "week": 4,
     "number": 7,
-    "text": "Paper mock-ups are the example of __________ prototype.",
+    "text": "Consider the statement ((A ∨ B) ∧ (C ∨ D)). How many rows are there in the truth table?",
     "options": [
       {
         "id": "A",
-        "text": "Low fidelity"
+        "text": "15"
       },
       {
         "id": "B",
-        "text": "High fidelity"
+        "text": "8"
       },
       {
         "id": "C",
-        "text": "Medium fidelity"
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "32"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w4-q8",
     "week": 4,
     "number": 8,
-    "text": "There is a requirement of 3-5 member team for the cognitive walkthrough.",
+    "text": "Which form is called the conjunction of the disjunction of literals?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Disjunctive normal form"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Conjunctive normal form"
+      },
+      {
+        "id": "C",
+        "text": "Normal form"
+      },
+      {
+        "id": "D",
+        "text": "All of the above"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w4-q9",
     "week": 4,
     "number": 9,
-    "text": "In a cognitive walkthrough evaluation, evaluators re expected to answer the questions only in “yes” or “no”",
+    "text": "Which of the following is not a style of inference?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Forward chaining"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Backward chaining"
+      },
+      {
+        "id": "C",
+        "text": "Resolution refutation"
+      },
+      {
+        "id": "D",
+        "text": "Modus Ponens"
       }
     ],
     "answers": [
-      "B"
+      "D"
     ]
   },
   {
     "id": "w4-q10",
     "week": 4,
     "number": 10,
-    "text": "In this technique, a human subject believes to interact with an autonomous computer. But, In reality, however, the computer is operated by an “unseen” human being. This technique is called________ approach.",
+    "text": "Negation of the proposition ∃x H(x) is:",
     "options": [
       {
         "id": "A",
-        "text": "Medium fidelity"
+        "text": "∃x ¬H(x)"
       },
       {
         "id": "B",
-        "text": "Vertical"
+        "text": "∀x ¬H(x)"
       },
       {
         "id": "C",
-        "text": "Wizard of Oz"
+        "text": "∀x H(x)"
       },
       {
         "id": "D",
-        "text": "Incremental"
+        "text": "∃x H(x)"
       }
     ],
     "answers": [
-      "C"
+      "B"
     ]
   },
   {
     "id": "w5-q1",
     "week": 5,
     "number": 1,
-    "text": "How do we evaluate an interface?",
+    "text": "What is the primary goal of an expert system?",
     "options": [
       {
         "id": "A",
-        "text": "by evaluating satisfaction"
+        "text": "To mimic human decision-making"
       },
       {
         "id": "B",
-        "text": "by evaluating memorability"
+        "text": "To automate routine tasks"
       },
       {
         "id": "C",
-        "text": "by evaluating usability"
+        "text": "To provide entertainment"
+      },
+      {
+        "id": "D",
+        "text": "To store large databases"
       }
     ],
     "answers": [
-      "C"
+      "A"
     ]
   },
   {
     "id": "w5-q2",
     "week": 5,
     "number": 2,
-    "text": "We need to frame a set of questions (usability issues) for the evaluators before performing a cognitive walkthrough",
+    "text": "Which component of an expert system contains domain-specific knowledge?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Inference engine"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Knowledge base"
+      },
+      {
+        "id": "C",
+        "text": "User interface"
+      },
+      {
+        "id": "D",
+        "text": "Database"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w5-q3",
     "week": 5,
     "number": 3,
-    "text": "In a heuristic evaluation, the items in the checklist are called __________.",
+    "text": "What is knowledge acquisition in expert systems?",
     "options": [
       {
         "id": "A",
-        "text": "checkbox"
+        "text": "Gathering knowledge from experts"
       },
       {
         "id": "B",
-        "text": "heuristics"
+        "text": "Representing knowledge in a machine-readable format"
       },
       {
         "id": "C",
-        "text": "usability issues"
+        "text": "Both gathering knowledge and representing knowledge"
       },
       {
         "id": "D",
-        "text": "problems"
+        "text": "Neither gathering knowledge nor representing knowledge"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w5-q4",
     "week": 5,
     "number": 4,
-    "text": "There are many ways of collecting user feedback in evaluation with self report methods: ______________ , can ask them to choose from a list of system attributes ask direct and open-ended questions.",
+    "text": "The main advantage of Partial Order Planning over Total Order Planning is:",
     "options": [
       {
         "id": "A",
-        "text": "Utter the option"
+        "text": "Faster data processing"
       },
       {
         "id": "B",
-        "text": "Rating on a scale"
+        "text": "Increased network efficiency"
+      },
+      {
+        "id": "C",
+        "text": "Flexibility in the ordering of actions"
+      },
+      {
+        "id": "D",
+        "text": "Simplified problem statements"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w5-q5",
+    "week": 5,
+    "number": 5,
+    "text": "In the context of planning, execution monitoring refers to:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Monitoring network traffic during planning"
+      },
+      {
+        "id": "B",
+        "text": "Monitoring data encryption processes"
+      },
+      {
+        "id": "C",
+        "text": "Checking the efficiency of data storage during planning"
+      },
+      {
+        "id": "D",
+        "text": "Observing the execution of the plan to detect and respond to discrepancies"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w5-q6",
+    "week": 5,
+    "number": 6,
+    "text": "What does \"HTN\" stand for in the context of hierarchical planning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Heuristic Temporal Network"
+      },
+      {
+        "id": "B",
+        "text": "Hierarchical Task Network"
+      },
+      {
+        "id": "C",
+        "text": "Hybrid Transition Node"
+      },
+      {
+        "id": "D",
+        "text": "Hierarchical Tree Navigation"
       }
     ],
     "answers": [
@@ -1064,200 +1242,80 @@
     ]
   },
   {
-    "id": "w5-q5",
-    "week": 5,
-    "number": 5,
-    "text": "ASQ is a ___________________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Post-task questionnaire"
-      },
-      {
-        "id": "B",
-        "text": "Post-session questionnaire"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w5-q6",
-    "week": 5,
-    "number": 6,
-    "text": "It is generally assumed that an SUS score around _______ percent or higher is desirable",
-    "options": [
-      {
-        "id": "A",
-        "text": "10"
-      },
-      {
-        "id": "B",
-        "text": "20"
-      },
-      {
-        "id": "C",
-        "text": "50"
-      },
-      {
-        "id": "D",
-        "text": "70"
-      }
-    ],
-    "answers": [
-      "D"
-    ]
-  },
-  {
     "id": "w5-q7",
     "week": 5,
     "number": 7,
-    "text": "In expert evaluation, the evaluation team should have at least _________ members.",
+    "text": "Which of the following best describes \"decomposition\" in hierarchical planning?",
     "options": [
       {
         "id": "A",
-        "text": "3-5"
+        "text": "Removing failed tasks from the agent's memory"
       },
       {
         "id": "B",
-        "text": "4-7"
+        "text": "Grouping objects with similar properties into categories"
       },
       {
         "id": "C",
-        "text": "5-7"
+        "text": "Translating a complex action into a sequence of partial, lower-level sub-actions"
       },
       {
         "id": "D",
-        "text": "7-9"
+        "text": "Converting a physical action back into a logic rule"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w5-q8",
     "week": 5,
     "number": 8,
-    "text": "In heuristic evaluation, a system is evaluated with a checklist are called ____ .",
+    "text": "Which algorithm is used to extract a plan directly from a planning graph?",
     "options": [
       {
         "id": "A",
-        "text": "Heuristics"
+        "text": "A* search"
       },
       {
         "id": "B",
-        "text": "Actions"
+        "text": "GraphPlan"
       },
       {
         "id": "C",
-        "text": "Statement"
+        "text": "Minimax"
+      },
+      {
+        "id": "D",
+        "text": "Hill climbing"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w5-q9",
     "week": 5,
     "number": 9,
-    "text": "What is the full form of SUS",
+    "text": "What does the term \"mutual exclusion\" (mutex) represent in a planning graph?",
     "options": [
       {
         "id": "A",
-        "text": "Software usability score"
+        "text": "Actions or propositions that cannot both be true or executed at the same time step"
       },
       {
         "id": "B",
-        "text": "Software usability scale"
+        "text": "Actions that mutually share the same goal"
       },
       {
         "id": "C",
-        "text": "System usability score"
+        "text": "Propositions that are identical in two different levels"
       },
       {
         "id": "D",
-        "text": "System usability scale"
-      }
-    ],
-    "answers": [
-      "D"
-    ]
-  },
-  {
-    "id": "w5-q10",
-    "week": 5,
-    "number": 10,
-    "text": "Which are from the following are the valid prototype evaluation methods",
-    "options": [
-      {
-        "id": "A",
-        "text": "Cognitive walkthrough"
-      },
-      {
-        "id": "B",
-        "text": "Affinity diagram"
-      },
-      {
-        "id": "C",
-        "text": "Heuristic evaluation"
-      }
-    ],
-    "answers": [
-      "A",
-      "C"
-    ]
-  },
-  {
-    "id": "w6-q1",
-    "week": 6,
-    "number": 1,
-    "text": "Which of the following is NOT a characteristic of Good design",
-    "options": [
-      {
-        "id": "A",
-        "text": "Coverage"
-      },
-      {
-        "id": "B",
-        "text": "Correctness"
-      },
-      {
-        "id": "C",
-        "text": "Understandability"
-      },
-      {
-        "id": "D",
-        "text": "Colorful"
-      }
-    ],
-    "answers": [
-      "D"
-    ]
-  },
-  {
-    "id": "w6-q2",
-    "week": 6,
-    "number": 2,
-    "text": "If all functions perform similar operations it falls under ________ cohesion.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Logical"
-      },
-      {
-        "id": "B",
-        "text": "Temporal"
-      },
-      {
-        "id": "C",
-        "text": "Procedural"
-      },
-      {
-        "id": "D",
-        "text": "Sequential"
+        "text": "Goals that have already been achieved"
       }
     ],
     "answers": [
@@ -1265,22 +1323,107 @@
     ]
   },
   {
-    "id": "w6-q3",
-    "week": 6,
-    "number": 3,
-    "text": "If two modules share code, it falls under __________ coupling.",
+    "id": "w5-q10",
+    "week": 5,
+    "number": 10,
+    "text": "Which of the following is a limitation of using planning graphs?",
     "options": [
       {
         "id": "A",
-        "text": "Data"
+        "text": "They can only be used with continuous variables"
       },
       {
         "id": "B",
-        "text": "Control"
+        "text": "They work only for propositional planning problems with no variables"
       },
       {
         "id": "C",
-        "text": "Content"
+        "text": "They guarantee the shortest possible plan in all cases"
+      },
+      {
+        "id": "D",
+        "text": "They cannot handle multiple actions at the same time step"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w6-q1",
+    "week": 6,
+    "number": 1,
+    "text": "What is the main purpose of Knowledge Representation in AI systems?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To create realistic user interfaces"
+      },
+      {
+        "id": "B",
+        "text": "To convert data into machine-readable formats for reasoning and problem-solving"
+      },
+      {
+        "id": "C",
+        "text": "To accelerate deep learning model training"
+      },
+      {
+        "id": "D",
+        "text": "To compress large databases efficiently"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w6-q2",
+    "week": 6,
+    "number": 2,
+    "text": "Which type of knowledge representation uses nodes to represent objects/concepts and arcs/edges to represent relations or associations?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Procedural Representation"
+      },
+      {
+        "id": "B",
+        "text": "Propositional Logic"
+      },
+      {
+        "id": "C",
+        "text": "Semantic Networks"
+      },
+      {
+        "id": "D",
+        "text": "Relational Databases"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w6-q3",
+    "week": 6,
+    "number": 3,
+    "text": "What is the primary characteristic of non-monotonic reasoning?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Adding new information increases the number of valid conclusions"
+      },
+      {
+        "id": "B",
+        "text": "Conclusions are always definitive and cannot be changed"
+      },
+      {
+        "id": "C",
+        "text": "Adding new information can invalidate previously drawn conclusions"
+      },
+      {
+        "id": "D",
+        "text": "It relies purely on exact mathematical theorems"
       }
     ],
     "answers": [
@@ -1291,69 +1434,77 @@
     "id": "w6-q4",
     "week": 6,
     "number": 4,
-    "text": "There are two basic design approaches: function oriented and _______ oriented.",
+    "text": "Default reasoning in AI is a type of:",
     "options": [
       {
         "id": "A",
-        "text": "Logic"
+        "text": "Monotonic reasoning"
       },
       {
         "id": "B",
-        "text": "Folder"
+        "text": "Non-monotonic reasoning"
       },
       {
         "id": "C",
-        "text": "Object"
+        "text": "Deductive reasoning"
       },
       {
         "id": "D",
-        "text": "Class"
+        "text": "Backward reasoning"
       }
     ],
     "answers": [
-      "C"
+      "B"
     ]
   },
   {
     "id": "w6-q5",
     "week": 6,
     "number": 5,
-    "text": "Basic components of ER diagram are: Entity, _____ and Relationship",
+    "text": "Which system in AI is specifically designed to manage and revise beliefs when new facts contradict prior conclusions?",
     "options": [
       {
         "id": "A",
-        "text": "Object"
+        "text": "Truth Maintenance System (TMS)"
       },
       {
         "id": "B",
-        "text": "User"
+        "text": "Feed-forward Neural Networks"
       },
       {
         "id": "C",
-        "text": "Attribute"
+        "text": "Propositional Logic Resolution"
       },
       {
         "id": "D",
-        "text": "Class"
+        "text": "Fuzzy Logic Controllers"
       }
     ],
     "answers": [
-      "C"
+      "A"
     ]
   },
   {
     "id": "w6-q6",
     "week": 6,
     "number": 6,
-    "text": "Null attributes are used when:",
+    "text": "Two unbiased coins are tossed. What is the probability of getting at most one head?",
     "options": [
       {
         "id": "A",
-        "text": "An entity does not have a value for an attribute"
+        "text": "3/4"
       },
       {
         "id": "B",
-        "text": "A value needs to be derived from other attributes or entities"
+        "text": "1/6"
+      },
+      {
+        "id": "C",
+        "text": "1/3"
+      },
+      {
+        "id": "D",
+        "text": "1/2"
       }
     ],
     "answers": [
@@ -1364,74 +1515,77 @@
     "id": "w6-q7",
     "week": 6,
     "number": 7,
-    "text": "There are four types of relationships in ER diagram: one-to-one, one-to-many, many-to-one and _______.",
+    "text": "What's the probability of drawing a red card or a card with a face (king, queen, or jack) from a standard deck of 52 cards?",
     "options": [
       {
         "id": "A",
-        "text": "Many-to-binary"
+        "text": "13/52"
       },
       {
         "id": "B",
-        "text": "Many-to-many"
+        "text": "21/52"
       },
       {
         "id": "C",
-        "text": "Binary-to-many"
+        "text": "29/52"
       },
       {
         "id": "D",
-        "text": "Binary-to-one"
+        "text": "8/13"
       }
     ],
     "answers": [
-      "B"
+      "D"
     ]
   },
   {
     "id": "w6-q8",
     "week": 6,
     "number": 8,
-    "text": "Which of the following is/are the type of cohesion?",
+    "text": "In CD theory, what does the primitive act PTRANS stand for?",
     "options": [
       {
         "id": "A",
-        "text": "Temporal"
+        "text": "The transfer of mental information"
       },
       {
         "id": "B",
-        "text": "Functional"
+        "text": "The transfer of physical possession"
       },
       {
         "id": "C",
-        "text": "Content"
+        "text": "The transfer of physical location"
       },
       {
         "id": "D",
-        "text": "All of the above"
+        "text": "The transformation of energy"
       }
     ],
     "answers": [
-      "A",
-      "B"
+      "C"
     ]
   },
   {
     "id": "w6-q9",
     "week": 6,
     "number": 9,
-    "text": "Which one from the following are related with between modules?",
+    "text": "A structure that describes a stereotypical sequence of events is known as:",
     "options": [
       {
         "id": "A",
-        "text": "Cohesion"
+        "text": "Conceptual dependency"
       },
       {
         "id": "B",
-        "text": "Coupling"
+        "text": "Script"
       },
       {
         "id": "C",
-        "text": "Both"
+        "text": "Frames"
+      },
+      {
+        "id": "D",
+        "text": "Bayesian network"
       }
     ],
     "answers": [
@@ -1442,46 +1596,50 @@
     "id": "w6-q10",
     "week": 6,
     "number": 10,
-    "text": "What is the full form of the DFD",
+    "text": "What is the purpose of 'Default Values' in a frame?",
     "options": [
       {
         "id": "A",
-        "text": "Data flow design"
+        "text": "To define the exact data type of a slot"
       },
       {
         "id": "B",
-        "text": "Data flow decision"
+        "text": "To act as a procedure to calculate runtime metrics"
       },
       {
         "id": "C",
-        "text": "Data flow development"
+        "text": "To provide a standard assumption when no specific information is provided for a slot"
       },
       {
         "id": "D",
-        "text": "Data flow diagram"
+        "text": "To restrict the range of values an attribute can hold"
       }
     ],
     "answers": [
-      "D"
+      "C"
     ]
   },
   {
     "id": "w7-q1",
     "week": 7,
     "number": 1,
-    "text": "In functional design approach we think of the system as provider of a set of “services” represented as ________.",
+    "text": "What type of graph structure is used to represent a Bayesian Network?",
     "options": [
       {
         "id": "A",
-        "text": "Data"
+        "text": "Undirected Cyclic Graph"
       },
       {
         "id": "B",
-        "text": "Functions"
+        "text": "Directed Acyclic Graph (DAG)"
       },
       {
         "id": "C",
-        "text": "Objects"
+        "text": "Directed Cyclic Graph"
+      },
+      {
+        "id": "D",
+        "text": "Tree Structure with Cycles"
       }
     ],
     "answers": [
@@ -1492,57 +1650,50 @@
     "id": "w7-q2",
     "week": 7,
     "number": 2,
-    "text": "In “Object Oriented Design approach”, we do not consider “services” offered by system.",
+    "text": "What is a Conditional Probability Table (CPT) used for in a Bayesian Network?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "To list all possible deterministic rules in the domain"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "To calculate the marginal probability of all root nodes"
+      },
+      {
+        "id": "C",
+        "text": "To specify the probability of a node given its parent nodes"
+      },
+      {
+        "id": "D",
+        "text": "To find the shortest path in the network"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w7-q3",
     "week": 7,
     "number": 3,
-    "text": "A class contains attributes and ___________.",
+    "text": "What is the primary advantage of a Bayesian Network over a full joint probability distribution?",
     "options": [
       {
         "id": "A",
-        "text": "Data"
+        "text": "It requires fewer probabilities to be defined, reducing complexity"
       },
       {
         "id": "B",
-        "text": "Operations"
+        "text": "It can only be applied to deterministic environments"
       },
       {
         "id": "C",
-        "text": "Objects"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w7-q4",
-    "week": 7,
-    "number": 4,
-    "text": "Attribute indicates nature of data that an object can contain.",
-    "options": [
-      {
-        "id": "A",
-        "text": "True"
+        "text": "It guarantees 100% accurate predictions"
       },
       {
-        "id": "B",
-        "text": "False"
+        "id": "D",
+        "text": "It does not require conditional probability tables"
       }
     ],
     "answers": [
@@ -1550,172 +1701,53 @@
     ]
   },
   {
+    "id": "w7-q4",
+    "week": 7,
+    "number": 4,
+    "text": "How does a DBN maintain its structure across different time steps?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The network structure is randomly generated at each time step"
+      },
+      {
+        "id": "B",
+        "text": "It has a regular, repeated structure with the same set of features"
+      },
+      {
+        "id": "C",
+        "text": "It relies entirely on feedforward neural networks without memory"
+      },
+      {
+        "id": "D",
+        "text": "It completely changes its variables to accommodate new data"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
     "id": "w7-q5",
     "week": 7,
     "number": 5,
-    "text": "Full form of OOA is:",
+    "text": "How is Decision Theory formally defined in Artificial Intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "object oriented assignment"
+        "text": "Decision Theory = Probability Theory + First-Order Logic"
       },
       {
         "id": "B",
-        "text": "object oriented assistance"
+        "text": "Decision Theory = Search Algorithms + Utility Theory"
       },
       {
         "id": "C",
-        "text": "object oriented analysis"
+        "text": "Decision Theory = Inference + Rules"
       },
       {
         "id": "D",
-        "text": "object oriented attributes"
-      }
-    ],
-    "answers": [
-      "C"
-    ]
-  },
-  {
-    "id": "w7-q6",
-    "week": 7,
-    "number": 6,
-    "text": "________ effectively denotes the behavior of class.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Data"
-      },
-      {
-        "id": "B",
-        "text": "Operations"
-      },
-      {
-        "id": "C",
-        "text": "Objects"
-      },
-      {
-        "id": "D",
-        "text": "Attributes"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w7-q7",
-    "week": 7,
-    "number": 7,
-    "text": "UML is a language to represent",
-    "options": [
-      {
-        "id": "A",
-        "text": "OOP"
-      },
-      {
-        "id": "B",
-        "text": "OOA"
-      },
-      {
-        "id": "C",
-        "text": "OOD"
-      }
-    ],
-    "answers": [
-      "C"
-    ]
-  },
-  {
-    "id": "w7-q8",
-    "week": 7,
-    "number": 8,
-    "text": "UML is a design methodology",
-    "options": [
-      {
-        "id": "A",
-        "text": "True"
-      },
-      {
-        "id": "B",
-        "text": "False"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w7-q9",
-    "week": 7,
-    "number": 9,
-    "text": "Implementation view can be captured using ________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Deployment diagram"
-      },
-      {
-        "id": "B",
-        "text": "Component diagram"
-      },
-      {
-        "id": "C",
-        "text": "Class diagram"
-      },
-      {
-        "id": "D",
-        "text": "Use case diagram"
-      }
-    ],
-    "answers": [
-      "B"
-    ]
-  },
-  {
-    "id": "w7-q10",
-    "week": 7,
-    "number": 10,
-    "text": "________ objects normally hold information (e.g. book, book registers etc).",
-    "options": [
-      {
-        "id": "A",
-        "text": "Boundary"
-      },
-      {
-        "id": "B",
-        "text": "Controller"
-      },
-      {
-        "id": "C",
-        "text": "Entity"
-      }
-    ],
-    "answers": [
-      "C"
-    ]
-  },
-  {
-    "id": "w8-q1",
-    "week": 8,
-    "number": 1,
-    "text": "Following standard coding guidelines helps to improve ______.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Readability only"
-      },
-      {
-        "id": "B",
-        "text": "Understandability only"
-      },
-      {
-        "id": "C",
-        "text": "Teamwork only"
-      },
-      {
-        "id": "D",
-        "text": "Readability, understandability, and teamwork"
+        "text": "Decision Theory = Probability Theory + Utility Theory"
       }
     ],
     "answers": [
@@ -1723,74 +1755,53 @@
     ]
   },
   {
-    "id": "w8-q2",
-    "week": 8,
-    "number": 2,
-    "text": "A function should have no longer than _____ lines of code.",
+    "id": "w7-q6",
+    "week": 7,
+    "number": 6,
+    "text": "Where is Bayes' rule primarily used in artificial intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "5"
+        "text": "Answering probabilistic queries conditioned on specific evidence"
       },
       {
         "id": "B",
-        "text": "16"
+        "text": "Decreasing the complexity of non-deterministic polynomial-time problems"
       },
       {
         "id": "C",
-        "text": "10"
+        "text": "Solving deterministic, rule-based logic puzzles"
       },
       {
         "id": "D",
-        "text": "8"
+        "text": "Performing unsupervised clustering of continuous data variables"
       }
     ],
     "answers": [
-      "C"
+      "A"
     ]
   },
   {
-    "id": "w8-q3",
-    "week": 8,
-    "number": 3,
-    "text": "What are some things to avoid when writing code? (Choose all that apply)",
+    "id": "w7-q7",
+    "week": 7,
+    "number": 7,
+    "text": "Consider Bayes' theorem. What does P(A|B) represent?",
     "options": [
       {
         "id": "A",
-        "text": "Using lengthy functions"
+        "text": "Prior probability"
       },
       {
         "id": "B",
-        "text": "Using the same identifier for multiple purposes"
+        "text": "Posterior probability"
       },
       {
         "id": "C",
-        "text": "Using ‘goto’ (branching) statements indiscriminately"
+        "text": "Likelihood"
       },
       {
         "id": "D",
-        "text": "Using proper indentation"
-      }
-    ],
-    "answers": [
-      "A",
-      "B",
-      "C"
-    ]
-  },
-  {
-    "id": "w8-q4",
-    "week": 8,
-    "number": 4,
-    "text": "Two broad categories of code testing methods are review-based method and __________ method.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Manual testing"
-      },
-      {
-        "id": "B",
-        "text": "Execution-based"
+        "text": "Marginal likelihood"
       }
     ],
     "answers": [
@@ -1798,26 +1809,218 @@
     ]
   },
   {
-    "id": "w8-q5",
-    "week": 8,
-    "number": 5,
-    "text": "What are the two common methods for review-based testing? (Choose all that apply)",
+    "id": "w7-q8",
+    "week": 7,
+    "number": 8,
+    "text": "What are the three required terms to build a basic Bayes model for probabilistic reasoning?",
     "options": [
       {
         "id": "A",
-        "text": "Code inspection"
+        "text": "A joint probability, a marginal probability, and a conditional probability"
       },
       {
         "id": "B",
-        "text": "Code walkthrough"
+        "text": "Three independent probabilities"
       },
       {
         "id": "C",
-        "text": "Unit testing"
+        "text": "One conditional probability and two unconditional probabilities"
+      },
+      {
+        "id": "D",
+        "text": "Two conditional probabilities and one joint probability"
       }
     ],
     "answers": [
-      "A",
+      "C"
+    ]
+  },
+  {
+    "id": "w7-q9",
+    "week": 7,
+    "number": 9,
+    "text": "Suppose box A contains 4 red and 5 blue coins, and box B contains 6 red and 3 blue coins. A coin is chosen at random from box A and placed in box B. Finally, a coin is chosen at random from box B. What is the probability that a blue coin was transferred from box A to box B given that the coin chosen from box B is red?",
+    "options": [
+      {
+        "id": "A",
+        "text": "15/29"
+      },
+      {
+        "id": "B",
+        "text": "14/29"
+      },
+      {
+        "id": "C",
+        "text": "1/2"
+      },
+      {
+        "id": "D",
+        "text": "7/10"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w7-q10",
+    "week": 7,
+    "number": 10,
+    "text": "A utility function in AI expresses what?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The execution time of an algorithm"
+      },
+      {
+        "id": "B",
+        "text": "The amount of computer memory usage"
+      },
+      {
+        "id": "C",
+        "text": "The probability of system failure"
+      },
+      {
+        "id": "D",
+        "text": "The desirability of states or outcomes"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w8-q1",
+    "week": 8,
+    "number": 1,
+    "text": "What is the goal of \"Unsupervised Learning\" in AI?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To predict a continuous output value based on labeled data"
+      },
+      {
+        "id": "B",
+        "text": "To discover hidden patterns or intrinsic structures within unlabeled data"
+      },
+      {
+        "id": "C",
+        "text": "To learn sequences of actions through trial and error to maximize a reward"
+      },
+      {
+        "id": "D",
+        "text": "To map inputs to exact classifications provided by a human expert"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w8-q2",
+    "week": 8,
+    "number": 2,
+    "text": "How is a prediction made for a new data point in kNN classification?",
+    "options": [
+      {
+        "id": "A",
+        "text": "By majority vote of the K nearest neighbors"
+      },
+      {
+        "id": "B",
+        "text": "By plotting a decision tree"
+      },
+      {
+        "id": "C",
+        "text": "By calculating the mean squared error"
+      },
+      {
+        "id": "D",
+        "text": "By taking the weighted average of all training points"
+      }
+    ],
+    "answers": [
+      "A"
+    ]
+  },
+  {
+    "id": "w8-q3",
+    "week": 8,
+    "number": 3,
+    "text": "Why is feature scaling (e.g., normalization or standardization) important before applying KNN?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To reduce the memory required to store the dataset"
+      },
+      {
+        "id": "B",
+        "text": "To change the algorithm from supervised to unsupervised"
+      },
+      {
+        "id": "C",
+        "text": "To increase the number of dimensions in the dataset"
+      },
+      {
+        "id": "D",
+        "text": "To prevent features with larger scales from dominating the distance calculations"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w8-q4",
+    "week": 8,
+    "number": 4,
+    "text": "What are support vectors in the context of SVM?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Data points that are incorrectly classified"
+      },
+      {
+        "id": "B",
+        "text": "All data points used for training"
+      },
+      {
+        "id": "C",
+        "text": "Data points that lie closest to the decision boundary"
+      },
+      {
+        "id": "D",
+        "text": "The parameters used to define the hyperplane weight vector"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w8-q5",
+    "week": 8,
+    "number": 5,
+    "text": "What does the \"coverage\" metric of a classification rule evaluate?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The percentage of all predictions that are completely accurate"
+      },
+      {
+        "id": "B",
+        "text": "The proportion of records in the dataset that trigger the rule's condition"
+      },
+      {
+        "id": "C",
+        "text": "The size of the memory space consumed by the rule base"
+      },
+      {
+        "id": "D",
+        "text": "The depth of the underlying evaluation structure"
+      }
+    ],
+    "answers": [
       "B"
     ]
   },
@@ -1825,15 +2028,23 @@
     "id": "w8-q6",
     "week": 8,
     "number": 6,
-    "text": "White-box testing refers to designing test cases using knowledge of internal structure of the software.",
+    "text": "When a rule set is \"mutually exclusive,\" it means that for any given data instance:",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "At most one rule can be triggered"
       },
       {
         "id": "B",
-        "text": "false"
+        "text": "Every rule in the database must evaluate to true"
+      },
+      {
+        "id": "C",
+        "text": "No rules can be applied to it"
+      },
+      {
+        "id": "D",
+        "text": "The accuracy of the classification is 100%"
       }
     ],
     "answers": [
@@ -1844,23 +2055,23 @@
     "id": "w8-q7",
     "week": 8,
     "number": 7,
-    "text": "How many members should be present in a code walkthrough team?",
+    "text": "What property is satisfied when a set of rules ensures that every possible combination of attribute values in a dataset triggers at least one rule?",
     "options": [
       {
         "id": "A",
-        "text": "2–3 members"
+        "text": "Mutual exclusion"
       },
       {
         "id": "B",
-        "text": "3-5 members"
+        "text": "Exhaustive coverage"
       },
       {
         "id": "C",
-        "text": "5–7 members"
+        "text": "Deterministic ranking"
       },
       {
         "id": "D",
-        "text": "7–10 members"
+        "text": "Overlapping coverage"
       }
     ],
     "answers": [
@@ -1871,69 +2082,77 @@
     "id": "w8-q8",
     "week": 8,
     "number": 8,
-    "text": "Which of the following code testing method requires simulation of code execution by hand?",
+    "text": "In a decision tree structure, what do the leaf nodes represent?",
     "options": [
       {
         "id": "A",
-        "text": "Code walkthrough"
+        "text": "Features to be tested"
       },
       {
         "id": "B",
-        "text": "Code inspection"
+        "text": "Conditions or rules"
       },
       {
         "id": "C",
-        "text": "Black box testing"
+        "text": "Missing data values"
       },
       {
         "id": "D",
-        "text": "White box testing"
+        "text": "Class labels or final outcomes"
       }
     ],
     "answers": [
-      "A"
+      "D"
     ]
   },
   {
     "id": "w8-q9",
     "week": 8,
     "number": 9,
-    "text": "Uninitialized variable is one of the common errors in programming that can be identified through code inspection.",
+    "text": "What is the fundamental purpose of \"Pruning\" a decision tree?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "To make the tree grow deeper"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "To reduce training time"
+      },
+      {
+        "id": "C",
+        "text": "To prevent overfitting and improve generalization"
+      },
+      {
+        "id": "D",
+        "text": "To convert a classification tree into a regression tree"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w8-q10",
     "week": 8,
     "number": 10,
-    "text": "Which of the following is not required to perform black box testing?",
+    "text": "If a dataset node contains data points that all belong to the exact same class, what is its mathematical Entropy?",
     "options": [
       {
         "id": "A",
-        "text": "Equivalence class partitioning"
+        "text": "1.0"
       },
       {
         "id": "B",
-        "text": "Boundary value analysis"
+        "text": "0.5"
       },
       {
         "id": "C",
-        "text": "Test suite creation"
+        "text": "-1.0"
       },
       {
         "id": "D",
-        "text": "Knowledge of the internal structure of the code"
+        "text": "0.0"
       }
     ],
     "answers": [
@@ -1944,15 +2163,23 @@
     "id": "w9-q1",
     "week": 9,
     "number": 1,
-    "text": "Set of all test cases with which a given software is to be tested is known as ________.",
+    "text": "In a feedforward neural network, how does information flow?",
     "options": [
       {
         "id": "A",
-        "text": "Testcase"
+        "text": "Bidirectional"
       },
       {
         "id": "B",
-        "text": "Test suite"
+        "text": "Forward only"
+      },
+      {
+        "id": "C",
+        "text": "Randomly"
+      },
+      {
+        "id": "D",
+        "text": "Backward only"
       }
     ],
     "answers": [
@@ -1963,42 +2190,50 @@
     "id": "w9-q2",
     "week": 9,
     "number": 2,
-    "text": "Randomly selected test cases do not necessarily contribute to significance of test suite.",
+    "text": "What type of problem can a Single-Layer Perceptron NOT solve, but a Multilayer Perceptron CAN solve?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "AND logic gate"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "OR logic gate"
+      },
+      {
+        "id": "C",
+        "text": "XOR logic gate"
+      },
+      {
+        "id": "D",
+        "text": "NOT logic gate"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w9-q3",
     "week": 9,
     "number": 3,
-    "text": "In black box testing the two main approaches to design test vases are: Equivalence class partitioning and _______________.",
+    "text": "What is the purpose of the \"epochs\" parameter when training a multilayer perceptron model?",
     "options": [
       {
         "id": "A",
-        "text": "Structural analysis"
+        "text": "It determines the number of layers in the network"
       },
       {
         "id": "B",
-        "text": "Boundary value analysis"
+        "text": "It specifies the number of times the model will go through the entire training dataset"
       },
       {
         "id": "C",
-        "text": "Equivalence class analysis"
+        "text": "It controls the learning rate during training"
       },
       {
         "id": "D",
-        "text": "System analysis"
+        "text": "It defines the batch size"
       }
     ],
     "answers": [
@@ -2009,46 +2244,23 @@
     "id": "w9-q4",
     "week": 9,
     "number": 4,
-    "text": "Testing code with any _____ value(s) of an equivalence class is as good as testing with ALL input values belonging to that class.",
+    "text": "What is the primary consequence of training a machine learning model on a heavily imbalanced dataset?",
     "options": [
       {
         "id": "A",
-        "text": "One"
+        "text": "The model perfectly generalizes to unseen data"
       },
       {
         "id": "B",
-        "text": "Two"
+        "text": "The model becomes biased toward the majority class and struggles to predict the minority class"
       },
       {
         "id": "C",
-        "text": "Five"
+        "text": "The model takes significantly less time to train"
       },
       {
         "id": "D",
-        "text": "Four"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w9-q5",
-    "week": 9,
-    "number": 5,
-    "text": "In black box testing, domain of input values partitioned into sets, each sets are called _________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Partition class"
-      },
-      {
-        "id": "B",
-        "text": "Equivalence class"
-      },
-      {
-        "id": "C",
-        "text": "Program class"
+        "text": "The model is unable to process any data"
       }
     ],
     "answers": [
@@ -2056,30 +2268,56 @@
     ]
   },
   {
-    "id": "w9-q6",
+    "id": "w9-q5",
     "week": 9,
-    "number": 6,
-    "text": "Which is/are from the following are valid review based testing",
+    "number": 5,
+    "text": "Which of the following evaluation metrics is NOT recommended for imbalanced datasets?",
     "options": [
       {
         "id": "A",
-        "text": "Code walkthrough"
+        "text": "Precision"
       },
       {
         "id": "B",
-        "text": "Code inspection"
+        "text": "Recall"
       },
       {
         "id": "C",
-        "text": "Code analysis"
+        "text": "F1 score"
       },
       {
         "id": "D",
-        "text": "Code assessment"
+        "text": "Accuracy"
       }
     ],
     "answers": [
-      "A",
+      "D"
+    ]
+  },
+  {
+    "id": "w9-q6",
+    "week": 9,
+    "number": 6,
+    "text": "What technique balances a dataset by randomly duplicating instances of the minority class?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Random undersampling"
+      },
+      {
+        "id": "B",
+        "text": "Random oversampling"
+      },
+      {
+        "id": "C",
+        "text": "SMOTE (Synthetic Minority Oversampling Technique)"
+      },
+      {
+        "id": "D",
+        "text": "Dimensionality Reduction"
+      }
+    ],
+    "answers": [
       "B"
     ]
   },
@@ -2087,19 +2325,23 @@
     "id": "w9-q7",
     "week": 9,
     "number": 7,
-    "text": "Set of all test cases with which a given software is to be tested is called test _____",
+    "text": "What is a primary risk associated with Random Undersampling?",
     "options": [
       {
         "id": "A",
-        "text": "Question"
+        "text": "It requires much more computational power"
       },
       {
         "id": "B",
-        "text": "Questionnaire"
+        "text": "It might generate unrealistic synthetic data"
       },
       {
         "id": "C",
-        "text": "Suite"
+        "text": "It can lead to the loss of valuable information from the majority class"
+      },
+      {
+        "id": "D",
+        "text": "It creates overfitting by duplicating examples"
       }
     ],
     "answers": [
@@ -2110,27 +2352,26 @@
     "id": "w9-q8",
     "week": 9,
     "number": 8,
-    "text": "In Black-box testing, the test cases are based on",
+    "text": "How does SMOTE (Synthetic Minority Over-sampling Technique) primarily differ from basic random oversampling?",
     "options": [
       {
         "id": "A",
-        "text": "input"
+        "text": "It removes samples from the majority class to reduce imbalance"
       },
       {
         "id": "B",
-        "text": "knowledge of design"
+        "text": "It assigns higher penalty costs to misclassifying the minority class"
       },
       {
         "id": "C",
-        "text": "output"
+        "text": "It generates new, synthetic examples of the minority class by interpolating between existing ones"
       },
       {
         "id": "D",
-        "text": "knowledge of code"
+        "text": "It optimizes hyperparameters to reduce model bias"
       }
     ],
     "answers": [
-      "A",
       "C"
     ]
   },
@@ -2138,103 +2379,23 @@
     "id": "w9-q9",
     "week": 9,
     "number": 9,
-    "text": "Domain of input values partitioned into set is called equivalence class",
+    "text": "In the context of version space learning, what is a \"G-set\"?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "The set of all general hypotheses"
       },
       {
         "id": "B",
-        "text": "False"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w9-q10",
-    "week": 9,
-    "number": 10,
-    "text": "Functional testing is related to",
-    "options": [
-      {
-        "id": "A",
-        "text": "Black-box testing"
-      },
-      {
-        "id": "B",
-        "text": "White-box testing"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w10-q1",
-    "week": 10,
-    "number": 1,
-    "text": "To do a white-box testing, knowledge of internal structure is required.",
-    "options": [
-      {
-        "id": "A",
-        "text": "True"
-      },
-      {
-        "id": "B",
-        "text": "False"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w10-q2",
-    "week": 10,
-    "number": 2,
-    "text": "To understand white-box testing strategies, program (flow) visualization helps. To visualize the program we can take help of ________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "CFG"
-      },
-      {
-        "id": "B",
-        "text": "DFD"
+        "text": "The boundary set of maximally general hypotheses consistent with training data"
       },
       {
         "id": "C",
-        "text": "ERD"
+        "text": "The set of greedy heuristics"
       },
       {
         "id": "D",
-        "text": "Class diagram"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w10-q3",
-    "week": 10,
-    "number": 3,
-    "text": "To construct a CFG we assign numbers to all statements of the program, create a node in the CFG for each numbered statement and_____________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "Complement the CFG"
-      },
-      {
-        "id": "B",
-        "text": "Add edges"
-      },
-      {
-        "id": "C",
-        "text": "Sort the nodes"
+        "text": "The hypothesis space generated by decision trees"
       }
     ],
     "answers": [
@@ -2242,91 +2403,215 @@
     ]
   },
   {
-    "id": "w10-q4",
-    "week": 10,
-    "number": 4,
-    "text": "Branch coverage guarantees statement coverage.",
+    "id": "w9-q10",
+    "week": 9,
+    "number": 10,
+    "text": "In version space learning, how is the \"current best hypothesis\" typically adjusted when it misclassifies a new training example?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "It is discarded, and the search resets"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "The algorithm increases the dimensionality of the input data"
+      },
+      {
+        "id": "C",
+        "text": "The hypothesis is generalized (if a false negative) or specialized (if a false positive) to accommodate the new example"
+      },
+      {
+        "id": "D",
+        "text": "The model shifts to an unsupervised clustering method"
       }
     ],
     "answers": [
-      "A"
+      "C"
+    ]
+  },
+  {
+    "id": "w10-q1",
+    "week": 10,
+    "number": 1,
+    "text": "Which network is suitable for sequential data?",
+    "options": [
+      {
+        "id": "A",
+        "text": "CNN"
+      },
+      {
+        "id": "B",
+        "text": "RNN"
+      },
+      {
+        "id": "C",
+        "text": "GAN"
+      },
+      {
+        "id": "D",
+        "text": "DNN"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w10-q2",
+    "week": 10,
+    "number": 2,
+    "text": "Which technique helps prevent overfitting in deep networks?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gradient Descent"
+      },
+      {
+        "id": "B",
+        "text": "One-hot encoding"
+      },
+      {
+        "id": "C",
+        "text": "Dropout"
+      },
+      {
+        "id": "D",
+        "text": "Feature Scaling"
+      }
+    ],
+    "answers": [
+      "C"
+    ]
+  },
+  {
+    "id": "w10-q3",
+    "week": 10,
+    "number": 3,
+    "text": "What is the main role of pooling layers in CNNs?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Increase accuracy"
+      },
+      {
+        "id": "B",
+        "text": "Extract features"
+      },
+      {
+        "id": "C",
+        "text": "Normalize data"
+      },
+      {
+        "id": "D",
+        "text": "Reduce spatial dimensions"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w10-q4",
+    "week": 10,
+    "number": 4,
+    "text": "What does a convolution operation do in a CNN?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Compresses input"
+      },
+      {
+        "id": "B",
+        "text": "Applies a filter to extract features"
+      },
+      {
+        "id": "C",
+        "text": "Connects neurons"
+      },
+      {
+        "id": "D",
+        "text": "Backpropagates error"
+      }
+    ],
+    "answers": [
+      "B"
     ]
   },
   {
     "id": "w10-q5",
     "week": 10,
     "number": 5,
-    "text": "In path coverage, test cases should ensure all __________ in the code executed at least once.",
+    "text": "Which problem does LSTM solve better than RNN?",
     "options": [
       {
         "id": "A",
-        "text": "Linearly independent paths"
+        "text": "Gradient descent"
       },
       {
         "id": "B",
-        "text": "Linearly dependent paths"
+        "text": "Short-term memory"
+      },
+      {
+        "id": "C",
+        "text": "Vanishing gradient"
+      },
+      {
+        "id": "D",
+        "text": "Batch processing"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w10-q6",
     "week": 10,
     "number": 6,
-    "text": "To compute cyclomatic complexity, we can use ___________, where E=number of edges, N=number of nodes.",
+    "text": "Word embeddings are used to:",
     "options": [
       {
         "id": "A",
-        "text": "E-N+2"
+        "text": "Generate images"
       },
       {
         "id": "B",
-        "text": "E-N+1"
+        "text": "Train neural networks"
       },
       {
         "id": "C",
-        "text": "E+N-2"
+        "text": "Segment sentences"
       },
       {
         "id": "D",
-        "text": "E+N-1"
+        "text": "Convert words to vectors"
       }
     ],
     "answers": [
-      "A"
+      "D"
     ]
   },
   {
     "id": "w10-q7",
     "week": 10,
     "number": 7,
-    "text": "Three main stages of system testing is alpha testing, beta testing and _________.",
+    "text": "Which of these is a transformer-based model?",
     "options": [
       {
         "id": "A",
-        "text": "Gama testing"
+        "text": "ResNet"
       },
       {
         "id": "B",
-        "text": "Sigma testing"
+        "text": "Word2Vec"
       },
       {
         "id": "C",
-        "text": "Acceptance testing"
+        "text": "BERT"
       },
       {
         "id": "D",
-        "text": "Omega testing"
+        "text": "VGG"
       }
     ],
     "answers": [
@@ -2337,96 +2622,104 @@
     "id": "w10-q8",
     "week": 10,
     "number": 8,
-    "text": "Volume testing tests system performance for ______ input.",
+    "text": "In GANs, the generator aims to:",
     "options": [
       {
         "id": "A",
-        "text": "Small"
+        "text": "Classify real data"
       },
       {
         "id": "B",
-        "text": "Large"
+        "text": "Discriminate data"
+      },
+      {
+        "id": "C",
+        "text": "Fool the discriminator"
+      },
+      {
+        "id": "D",
+        "text": "Train CNNs"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w10-q9",
     "week": 10,
     "number": 9,
-    "text": "There are _____ stages of empirical research.",
+    "text": "What is the primary advantage of using transfer learning in deep learning?",
     "options": [
       {
         "id": "A",
-        "text": "Three"
+        "text": "Faster training time"
       },
       {
         "id": "B",
-        "text": "Four"
+        "text": "Avoiding the need for labeled data"
       },
       {
         "id": "C",
-        "text": "Five"
+        "text": "Utilizing pre-trained models to improve performance on new tasks with limited data"
       },
       {
         "id": "D",
-        "text": "Six"
+        "text": "Simplifying the architecture of deep neural networks"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w10-q10",
     "week": 10,
     "number": 10,
-    "text": "Data we get from observation is ________ data.",
+    "text": "What is a generative model in deep learning?",
     "options": [
       {
         "id": "A",
-        "text": "Reflective"
+        "text": "A model that generates random data for testing"
       },
       {
         "id": "B",
-        "text": "Empirical"
+        "text": "A model that uses unsupervised learning to learn patterns in the data"
       },
       {
         "id": "C",
-        "text": "Authoritative"
+        "text": "A model that generates new data samples that resemble the training data"
       },
       {
         "id": "D",
-        "text": "Experiential"
+        "text": "A model that generates random weights for initializing neural networks"
       }
     ],
     "answers": [
-      "B"
+      "C"
     ]
   },
   {
     "id": "w11-q1",
     "week": 11,
     "number": 1,
-    "text": "When we perform a controlled experiment to collect and analyze data on user behavior, the entire process is known as ___________.",
+    "text": "What is the primary purpose of \"Positional Encoding\" in a Transformer?",
     "options": [
       {
         "id": "A",
-        "text": "programmable research"
+        "text": "To translate words into high-dimensional numerical vectors"
       },
       {
         "id": "B",
-        "text": "hypothetical research"
+        "text": "To calculate the similarity between words in the input"
       },
       {
         "id": "C",
-        "text": "empirical research"
+        "text": "To inject information about the relative or absolute position of tokens in a sequence"
       },
       {
         "id": "D",
-        "text": "theoretical research"
+        "text": "To normalize the gradients during backpropagation"
       }
     ],
     "answers": [
@@ -2437,23 +2730,77 @@
     "id": "w11-q2",
     "week": 11,
     "number": 2,
-    "text": "There are broadly ___________ stages of empirical research?",
+    "text": "In a Multi-Head Attention layer, what are the three vectors (or matrices) computed from the input?",
     "options": [
       {
         "id": "A",
-        "text": "Two"
+        "text": "Inputs, Outputs, and Weights"
       },
       {
         "id": "B",
-        "text": "three"
+        "text": "Queries, Keys, and Values"
       },
       {
         "id": "C",
-        "text": "four"
+        "text": "Vectors, Matrices, and Tensors"
       },
       {
         "id": "D",
-        "text": "five"
+        "text": "Encoders, Decoders, and Embeddings"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w11-q3",
+    "week": 11,
+    "number": 3,
+    "text": "What is the function of the encoder in a Transformer model?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Generate predictions"
+      },
+      {
+        "id": "B",
+        "text": "Process input sequence into representation"
+      },
+      {
+        "id": "C",
+        "text": "Decode output"
+      },
+      {
+        "id": "D",
+        "text": "Translate sequences"
+      }
+    ],
+    "answers": [
+      "B"
+    ]
+  },
+  {
+    "id": "w11-q4",
+    "week": 11,
+    "number": 4,
+    "text": "Which mechanism allows Transformers to focus on relevant parts of the input?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Convolution"
+      },
+      {
+        "id": "B",
+        "text": "Recurrence"
+      },
+      {
+        "id": "C",
+        "text": "Attention"
+      },
+      {
+        "id": "D",
+        "text": "Pooling"
       }
     ],
     "answers": [
@@ -2461,83 +2808,53 @@
     ]
   },
   {
-    "id": "w11-q3",
-    "week": 11,
-    "number": 3,
-    "text": "Suppose we formed two research questions: RQ1: Is the new technique good? RQ2: Is our text input interface better than the text input interface provided by, say, MS Word? RQ3: Does the new interface let me enter text “faster” than MS Word? We call RQ3 ____________ and RQ1 as _______________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "testable, non-testable"
-      },
-      {
-        "id": "B",
-        "text": "alternative hypothesis, null hypothesis"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w11-q4",
-    "week": 11,
-    "number": 4,
-    "text": "When we form a hypothesis, essentially stating that the test condition is not going to affect the outcome (judgment). This hypothesis is called ____________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "null hypothesis"
-      },
-      {
-        "id": "B",
-        "text": "alternative hypothesis"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
     "id": "w11-q5",
     "week": 11,
     "number": 5,
-    "text": "In ____________, we assign some (arbitrary) codes to attributes of observational data.",
+    "text": "What is the form of Fuzzy logic?",
     "options": [
       {
         "id": "A",
-        "text": "nominal"
+        "text": "Two-valued logic"
       },
       {
         "id": "B",
-        "text": "ordinal"
+        "text": "Crisp set logic"
       },
       {
         "id": "C",
-        "text": "interval"
+        "text": "Many-valued logic"
       },
       {
         "id": "D",
-        "text": "ratio"
+        "text": "Binary set logic"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w11-q6",
     "week": 11,
     "number": 6,
-    "text": "Recording data from a thermometer is an example of interval scaled data.",
+    "text": "There are other operators, more linguistic in nature, called ______ that can be applied in fuzzy set theory.",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Hedges"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Linguistic variable"
+      },
+      {
+        "id": "C",
+        "text": "Fuzz variable"
+      },
+      {
+        "id": "D",
+        "text": "None of these"
       }
     ],
     "answers": [
@@ -2548,96 +2865,77 @@
     "id": "w11-q7",
     "week": 11,
     "number": 7,
-    "text": "____________ are variables that influence both the independent and dependent variables in a study, potentially leading to incorrect conclusions about the relationship between the two.",
+    "text": "What is the purpose of fuzzy relations in fuzzy logic?",
     "options": [
       {
         "id": "A",
-        "text": "Dependent variables"
+        "text": "To define crisp relationships between elements"
       },
       {
         "id": "B",
-        "text": "Independent variables"
+        "text": "To eliminate ambiguity in relationships"
       },
       {
         "id": "C",
-        "text": "Confounding variables"
+        "text": "To establish precise connections between elements"
       },
       {
         "id": "D",
-        "text": "Control variables"
+        "text": "To model uncertain or vague relationships between elements"
       }
     ],
     "answers": [
-      "C"
+      "D"
     ]
   },
   {
     "id": "w11-q8",
     "week": 11,
     "number": 8,
-    "text": "For any pilot study (or small-scale studies), 5 is probably a good number.",
+    "text": "What is the first step in the fuzzification process in fuzzy control?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Defuzzification"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Membership function application"
+      },
+      {
+        "id": "C",
+        "text": "Rule evaluation"
+      },
+      {
+        "id": "D",
+        "text": "Data collection"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   },
   {
     "id": "w11-q9",
     "week": 11,
     "number": 9,
-    "text": "To draw reliable conclusions from empirical data, we should use between ____________ and _____________ participants.",
+    "text": "What does defuzzification achieve in fuzzy control?",
     "options": [
       {
         "id": "A",
-        "text": "1, 5"
+        "text": "Converts fuzzy outputs into crisp outputs"
       },
       {
         "id": "B",
-        "text": "2, 5"
+        "text": "Converts crisp inputs into fuzzy inputs"
       },
       {
         "id": "C",
-        "text": "12, 25"
+        "text": "Applies membership functions"
       },
       {
         "id": "D",
-        "text": "10, 12"
-      }
-    ],
-    "answers": [
-      "C"
-    ]
-  },
-  {
-    "id": "w11-q10",
-    "week": 11,
-    "number": 10,
-    "text": "When we distribute the tasks to participants in the way explained above, we call the study as ____________.",
-    "options": [
-      {
-        "id": "A",
-        "text": "between-subject"
-      },
-      {
-        "id": "B",
-        "text": "within-subject"
-      },
-      {
-        "id": "C",
-        "text": "uni-subject"
-      },
-      {
-        "id": "D",
-        "text": "center-subject"
+        "text": "Evaluates fuzzy rules"
       }
     ],
     "answers": [
@@ -2645,18 +2943,49 @@
     ]
   },
   {
-    "id": "w12-q1",
-    "week": 12,
-    "number": 1,
-    "text": "With the significance test, we try to ______________ the null hypothesis.",
+    "id": "w11-q10",
+    "week": 11,
+    "number": 10,
+    "text": "What is the function of the centroid method in defuzzification?",
     "options": [
       {
         "id": "A",
-        "text": "Accept"
+        "text": "It calculates the average of all fuzzy outputs"
       },
       {
         "id": "B",
-        "text": "Refute"
+        "text": "It selects the highest membership value as the output"
+      },
+      {
+        "id": "C",
+        "text": "It transforms fuzzy outputs into crisp values"
+      },
+      {
+        "id": "D",
+        "text": "It determines the center of gravity of the fuzzy output"
+      }
+    ],
+    "answers": [
+      "D"
+    ]
+  },
+  {
+    "id": "w12-q1",
+    "week": 12,
+    "number": 1,
+    "text": "Which NLP technique breaks text into smaller units called tokens?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Stemming"
+      },
+      {
+        "id": "B",
+        "text": "Tokenization"
+      },
+      {
+        "id": "C",
+        "text": "Parsing"
       }
     ],
     "answers": [
@@ -2667,42 +2996,23 @@
     "id": "w12-q2",
     "week": 12,
     "number": 2,
-    "text": "Type I error is also known as ______________.",
+    "text": "What NLP technique is used to determine whether a given text expresses a positive, negative, or neutral opinion?",
     "options": [
       {
         "id": "A",
-        "text": "False positive"
+        "text": "Machine Translation"
       },
       {
         "id": "B",
-        "text": "False negative"
+        "text": "Sentiment Analysis"
       },
       {
         "id": "C",
-        "text": "True positive"
+        "text": "Named Entity Recognition"
       },
       {
         "id": "D",
-        "text": "True negative"
-      }
-    ],
-    "answers": [
-      "A"
-    ]
-  },
-  {
-    "id": "w12-q3",
-    "week": 12,
-    "number": 3,
-    "text": "t-statistic is the ONLY way to test for statistical significance.",
-    "options": [
-      {
-        "id": "A",
-        "text": "True"
-      },
-      {
-        "id": "B",
-        "text": "False"
+        "text": "Text Summarization"
       }
     ],
     "answers": [
@@ -2710,37 +3020,80 @@
     ]
   },
   {
-    "id": "w12-q4",
+    "id": "w12-q3",
     "week": 12,
-    "number": 4,
-    "text": "There are broadly two categories of the techniques for significance test: ______________ and ____________ .",
+    "number": 3,
+    "text": "What is the primary purpose of Word Sense Disambiguation in NLP?",
     "options": [
       {
         "id": "A",
-        "text": "Parametric and Non-parametric"
+        "text": "To correct spelling mistakes in the text"
       },
       {
         "id": "B",
-        "text": "t-test and non t-test"
+        "text": "To extract named entities like names and dates"
+      },
+      {
+        "id": "C",
+        "text": "To select the correct meaning of a word that has multiple meanings based on context"
+      },
+      {
+        "id": "D",
+        "text": "To remove unnecessary punctuation"
       }
     ],
     "answers": [
-      "A"
+      "C"
+    ]
+  },
+  {
+    "id": "w12-q4",
+    "week": 12,
+    "number": 4,
+    "text": "If an AI recruitment tool favors male candidates over female candidates because it was trained on historical data, which ethical principle has been violated?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Privacy"
+      },
+      {
+        "id": "B",
+        "text": "Fairness and justice"
+      },
+      {
+        "id": "C",
+        "text": "Efficiency"
+      },
+      {
+        "id": "D",
+        "text": "Transparency"
+      }
+    ],
+    "answers": [
+      "B"
     ]
   },
   {
     "id": "w12-q5",
     "week": 12,
     "number": 5,
-    "text": "Project planning involves estimation of Project size, Cost, Duration and Effort.",
+    "text": "What is one of the primary ethical concerns regarding Artificial Intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Data privacy and security"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Enhancement of human cognitive abilities"
+      },
+      {
+        "id": "C",
+        "text": "Cost of implementing AI systems"
+      },
+      {
+        "id": "D",
+        "text": "Speed of algorithm processing"
       }
     ],
     "answers": [
@@ -2751,23 +3104,23 @@
     "id": "w12-q6",
     "week": 12,
     "number": 6,
-    "text": "COCOMO stands for ________________.",
+    "text": "In AI decision-making systems, what is the risk associated with biased algorithms?",
     "options": [
       {
         "id": "A",
-        "text": "Conducive Cost Estimation Model"
+        "text": "Improved decision-making accuracy"
       },
       {
         "id": "B",
-        "text": "Constructive Cost Estimation Model"
+        "text": "Discrimination against specific groups"
       },
       {
         "id": "C",
-        "text": "Constructive Category Estimation Model"
+        "text": "Increased efficiency in processing data"
       },
       {
         "id": "D",
-        "text": "Conducive Category Estimation Model"
+        "text": "Enhanced fairness in decision-making"
       }
     ],
     "answers": [
@@ -2778,23 +3131,23 @@
     "id": "w12-q7",
     "week": 12,
     "number": 7,
-    "text": "According to Boehm, software cost estimation should be done through ________________ stages.",
+    "text": "What is the main inspiration for Swarm Intelligence?",
     "options": [
       {
         "id": "A",
-        "text": "Two"
+        "text": "The human brain's neural networks"
       },
       {
         "id": "B",
-        "text": "Three"
+        "text": "The social behavior of insects like ants and bees"
       },
       {
         "id": "C",
-        "text": "Four"
+        "text": "Brute-force mathematical calculations"
       },
       {
         "id": "D",
-        "text": "Five"
+        "text": "Rule-based expert systems"
       }
     ],
     "answers": [
@@ -2805,34 +3158,50 @@
     "id": "w12-q8",
     "week": 12,
     "number": 8,
-    "text": "Agile development ensure quick turn-around of projects",
+    "text": "Which algorithm mimics how ants find the shortest path to food?",
     "options": [
       {
         "id": "A",
-        "text": "True"
+        "text": "Artificial Bee Colony (ABC)"
       },
       {
         "id": "B",
-        "text": "False"
+        "text": "Particle Swarm Optimization (PSO)"
+      },
+      {
+        "id": "C",
+        "text": "Ant Colony Optimization (ACO)"
+      },
+      {
+        "id": "D",
+        "text": "K-Means Clustering"
       }
     ],
     "answers": [
-      "A"
+      "C"
     ]
   },
   {
     "id": "w12-q9",
     "week": 12,
     "number": 9,
-    "text": "Scrum is a _____________ method.",
+    "text": "What term refers to indirect communication (like leaving pheromones) between swarm agents?",
     "options": [
       {
         "id": "A",
-        "text": "Traditional SDLC"
+        "text": "Inheritance"
       },
       {
         "id": "B",
-        "text": "Agile"
+        "text": "Stigmergy"
+      },
+      {
+        "id": "C",
+        "text": "Mutation"
+      },
+      {
+        "id": "D",
+        "text": "Backpropagation"
       }
     ],
     "answers": [
@@ -2843,23 +3212,27 @@
     "id": "w12-q10",
     "week": 12,
     "number": 10,
-    "text": "In a Gantt chart the length is proportional to ___________ for activity",
+    "text": "How do cooperative agents behave in a Multi-Agent System?",
     "options": [
       {
         "id": "A",
-        "text": "Duration planned"
+        "text": "They fight for the same limited resources to maximize their own wins"
       },
       {
         "id": "B",
-        "text": "Effort"
+        "text": "They work toward shared objectives, sharing information and resources"
       },
       {
         "id": "C",
-        "text": "Cost"
+        "text": "They act randomly without any goals"
+      },
+      {
+        "id": "D",
+        "text": "They completely ignore each other's existence"
       }
     ],
     "answers": [
-      "A"
+      "B"
     ]
   }
 ]

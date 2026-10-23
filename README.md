@@ -1,6 +1,6 @@
-# HCI Practice Studio
+# AI Practice Studio — Artificial Intelligence: Concepts and Techniques
 
-A Next.js App Router and TypeScript practice application using all 120 questions from the supplied NPTEL HCI Weeks 1–12 PDF.
+A Next.js App Router and TypeScript practice application using all 120 questions from NPTEL Artificial Intelligence: Concepts and Techniques Weeks 1–12.
 
 ## Run locally
 

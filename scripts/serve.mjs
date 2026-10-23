@@ -16,4 +16,4 @@ const server=http.createServer(async(req,res)=>{
   } catch { res.writeHead(404,{'Content-Type':'text/plain'});res.end('Page not found'); }
 });
 server.on('error',error=>{console.error('Could not start the local app:',error.message);process.exitCode=1;});
-server.listen(port,'127.0.0.1',()=>console.log(`HCI Practice Studio: http://127.0.0.1:${port}\nLocal only. Press Ctrl+C to stop.`));
+server.listen(port,'127.0.0.1',()=>console.log(`AI Practice Studio: http://127.0.0.1:${port}\nLocal only. Press Ctrl+C to stop.`));
